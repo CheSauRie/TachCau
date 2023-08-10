@@ -1,2 +1,49 @@
-1.1 The Public Bank Vietnam eFixed Deposit Account (hereinafter referred to as the “PBVN eFD”) is a fixed deposit account which allows Account placements and withdrawals to be performed online via PBVN E-Banking (hereinafter referred to as the “PBVNe”)
-1.3 PBVN eFD is only available to Vietnamese resident individual customers aged 18 years and above and sole proprietors, who have existing conventional personal Current Accounts or Current Accounts Plus (CA/CAP) and who have registered for PBVNe (hereinafter referred to as the “Account holder”). The PBVN eFD is not available for joint CA/CAP
+ONLINE FIXED DEPOSIT (eFD) TERMS AND CONDITIONS 
+(Terms and Conditions is the Integral part of Application Form cum Contract for opening and utilization of account at Public Bank Vietnam.
+Eligibility.
+The Public Bank Vietnam eFixed Deposit Account (hereinafter referred to as the “PBVN eFD”) is a fixed deposit account which allows Account placements and withdrawals to be performed online via PBVN E-Banking (hereinafter referred to as the “PBVNe”) 
+PBVN eFD is a conventional fixed deposit product 
+PBVN eFD is only available to Vietnamese resident individual customers aged 18 years and above and sole proprietors, who have existing conventional personal Current Accounts or Current Accounts Plus (CA/CAP) and who have registered for PBVNe (hereinafter referred to as the “Account holder”).
+The PBVN eFD is not available for joint CA/CAP 
+Placement of PBVN eFD.
+PBVN eFD can ONLY be placed and withdrawn online via PBVNe.
+Over the counter transactions are NOT allowed 
+A conventional personal CA/CAP must be selected for the PBVN eFD account placement (hereinafter referred to as the “Designated CA/CAP”) and tagged to the PBVN eFD Account for withdrawal/interest crediting purposes.
+The PBVN eFD will be linked to the Designated CA/CAP from which the first PBVN eFD placement is made 
+The PBVN eFD customer information will be the same as the information captured from the Designated CA/CAP 
+Multiple placements into the PBVN eFD are allowed 
+Placements of each PBVN eFD must be made for a period of between one (1) month to twenty- four (24) months or any other period and at such rate of interest to be determined by the Bank at any time 
+The minimum and maximum amount to place PBVN eFD is subject to the features of the product which the Bank may at its discretion determine from time to time 
+No physical Fixed Deposit (FD) receipt will be issued for the PBVN eFD placement 
+The source of funds for the PBVN eFD placement will be debited from the Designated CA/CAP 
+The Designated CA/CAP is not allowed to be closed unless all outstanding PBVN eFD placement(s) have been withdrawn and the withdrawn proceeds have been credited to the Designated CA/CAP 
+The effective date of the PBVN eFD placement will be commence on the same day eFD was successfully placed via PBVNe 
+Interest Rate and Interest Payment.
+Interest Rate in respect of the PBVN eFD will cease at due date.
+Interest on PBVN eFD is subject to the Bank’s right to withhold such sum(s) as are required as withholding or other taxes, levies or impositions from time to time 
+The interest mode of payment is to be selected upon placement of the PBVN eFD 
+The Interest Rate is calculated on basis of 365 days per year and on method of day-end balancing (same as method of day-begin balancing as stipulated by State Bank of Vietnam) 
+The terms, interest rate and mode of payment are subject to the features of the product which the Bank may at its discretion determine and comply with current regulations of the State Bank of Vietnam from time to time 
+Withrawals.
+Rút 
+Withdrawals of PBVN eFD can only be performed via PBVNe 
+Upon withdrawal of a PBVN eFD, the principal sum and interest earned thereon (if any), shall be automatically credited into the Designated CA/CAP 
+PBVN eFD can be withdrawn on the same day of placement 
+Partial withdrawals of any PBVN eFD are NOT allowed 
+Premature withrawals.
+Premature withdrawal of PBVN eFD can only be performed via PBVNe 
+The premature withdrawal interest rate of PBVN eFD is subject to the Bank and comply with current regulations of the State Bank of Vietnam from time to time 
+Renewal.
+Upon maturity, the PBVN eFD shall be automatically renewed for the same period at the prevailing interest rates 
+Right of Set-off.
+The Bank may at any time with notice to the Account holder to set off or transfer any sum(s) standing in the credit of the PBVN eFD Account towards the satisfaction of any liabilities, jointly or severally, on any other account of the Account holder 
+Statement of Account.
+The statement/information of PBVN eFD can be accessed via PBVNe or PBVN SMS banking 
+Others.
+All placement(s) under PBVN eFD Account shall NOT be used as collateral for pledging purposes 
+In case of blocking PBVN eFD, please contact the Branch/Transaction Bureau where Customers opened account 
+The Bank reserves the right to amend any of these Terms and Conditions from time to time as it deems appropriate and at its sole discretion.
+Such amendments will take effect upon the Bank giving notification to the Customer (unless otherwise advised in the notification) using such means of notification as the Bank shall deem appropriate (including but not limited to display in the premises of the Bank or any of its offices or in the Bank’s website or by such other method as the Bank may decide).
+The use of the Service and Accounts after the effectiveness of amendment will constitute acceptance by the Customer to be bound by such amended Terms and Conditions.
+If the Customer does not accept the proposed amendments, the Customer must immediately notify the Bank and cancel or terminate the Service with the Bank and close eFD(s) 
+□ Upon Customer’s agreement to place the PBVN eFD (by ticking to this box), Customer shall be deemed to have agreed with these Terms and Conditions; and these Terms and Conditions shall be considered as a contract of opening and use of the PBVN eFD between Customer and the Bank which is effective from the opening date to the date when the eFD is closed in accordance with these Terms and Conditions 

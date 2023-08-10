@@ -1,7 +1,47 @@
-TIỀN GỬI CÓ KỲ HẠN TRỰC TUYẾN (TGCKHTT)
-ĐIỀU KIỆN VÀ ĐIỀU KHOẢN
-(Terms and Conditions is the Integral part of Application Form cum Contract for opening and utilization of account at Public Bank Vietnam/Điều khoản và Điều kiện này là một bộ phận không thể tách rời của Hợp Đồng mở và sử dụng tài khoản tại Public Bank Vietnam)
-1. Eligibility/Đối tượng áp dụng
-Tài khoản Tiền gửi có kỳ hạn trực tuyến (sau đây được gọi là “TKTGCKHTT”) của Ngân hàng Public Việt Nam là Tài khoản Tiền gửi có kỳ hạn cho phép đặt và rút tiền gửi trực tuyến thông qua Ngân hàng trực tuyến Public Việt Nam (sau đây được gọi là “NHTTPBVN”).
-TKTGCKHTT là một hình thức Tiền gửi có kỳ hạn.
-TKTGCKHTT chỉ áp dụng với khách hàng cư trú, cá nhân người Việt Nam từ 18 tuổi trở lên, là chủ tài khoản duy nhất của Tài khoản vãng lai hoặc Tài khoản vãng lai ưu đãi (TKVL/TKVLUD) và đã đăng ký dịch vụ NHTTPBVN. TKTGCKHTT không áp dụng cho TKVL/TKVLUD chung.
+TIỀN GỬI CÓ KỲ HẠN TRỰC TUYẾN (TGCKHTT) ĐIỀU KIỆN VÀ ĐIỀU KHOẢN 
+Điều khoản và Điều kiện này là một bộ phận không thể tách rời của Hợp Đồng mở và sử dụng tài khoản tại Public Bank Vietnam) 
+Đối tượng áp dụng 
+Tài khoản Tiền gửi có kỳ hạn trực tuyến (sau đây được gọi là “TKTGCKHTT”) của Ngân hàng Public Việt Nam là Tài khoản Tiền gửi có kỳ hạn cho phép đặt và rút tiền gửi trực tuyến thông qua Ngân hàng trực tuyến Public Việt Nam (sau đây được gọi là “NHTTPBVN”). 
+TKTGCKHTT là một hình thức Tiền gửi có kỳ hạn. 
+TKTGCKHTT chỉ áp dụng với khách hàng cư trú, cá nhân người Việt Nam từ 18 tuổi trở lên, là chủ tài khoản duy nhất của Tài khoản vãng lai hoặc Tài khoản vãng lai ưu đãi (TKVL/TKVLUD) và đã đăng ký dịch vụ NHTTPBVN.
+TKTGCKHTT không áp dụng cho TKVL/TKVLUD chung. 
+Đặt TKTGCKHTT 
+TKTGCKHTT CHỈ được đặt và rút trực tuyến thông qua NHTTPBVN.
+KHÔNG chấp nhận các giao dịch thực hiện tại quầy. 
+Khách hàng phải lựa chọn một TKVL/TKVLUD khi đặt TKTGCKHTT (sau đây được gọi là “TK được chỉ định”) và gắn với TKTGCKHTT đó trong trường hợp rút hoặc ghi có lãi.
+TKTGCKHTT sẽ được liên kết với TK được chỉ định kể từ khi khách hàng đặt TKTGCKHTT. 
+Thông tin của khách hàng mở TKTGCKHTT cũng là thông tin đã có trong TK được chỉ định. 
+Khách hàng được phép mở nhiều TKTGCKHTT. 
+Mỗi TKTGCKHTT phải được gửi với kỳ hạn từ một (1) tháng đến hai mươi bốn (24) tháng hoặc kỳ hạn khác theo lãi suất quy định của Ngân hàng tại từng thời điểm. 
+Số tiền gửi tối thiểu và tối đa của TKTGCKHTT tùy thuộc vào đặc tính của sản phẩm do Ngân hàng quy định trong từng thời kỳ. 
+Ngân hàng không phát hành sổ Tiền gửi có kỳ hạn bằng giấy cho TKTGCKHTT. 
+Nguồn tiền của các TKTGCKHTT được trích từ các TK được chỉ định. 
+TKVL/TKVLUD được chỉ định không được phép đóng trừ khi tất cả các TKTGCKHTT đã được rút và ghi có vào TKVL/TKVLUD được chỉ định. 
+Ngày tính lãi của TKTGCKHTT chính là ngày khoản tiền gửi được đặt thành công. 
+Lãi suất và thanh toán lãi 
+Lãi suất của TKTGCKHTT sẽ hết hiệu lực vào ngày đáo hạn.
+Lãi trên TGCKHTT sẽ được Ngân hàng tính toán và trả cho khách hàng sau khi trừ các khoản thuế, phí được quy định bởi Ngân hàng trong từng thời kỳ. 
+Phương thức trả lãi sẽ được lựa chọn khi đặt TKTGCKHTT. 
+Lãi suất được tính dựa trên cơ sở 365 ngày trên một năm và theo phương pháp tính lãi lấy số dư cuối ngày (tương đương với phương pháp tính lãi lấy số dư đầu ngày theo quy định của Ngân hàng Nhà nước). 
+Kỳ hạn, lãi suất, và phương thức thanh toán tùy thuộc vào những đặc tính của từng sản phẩm do Ngân hàng quy định và tuân thủ theo quy định hiện hành của Ngân hàng Nhà nước Việt Nam trong từng thời kỳ 
+Việc rút TKTGCKHTT chỉ được thực hiện thông qua NHTTPBVN. 
+Khi rút TKTGCKHTT tổng số tiền gốc và lãi (nếu có) sẽ được tự động ghi có và TK được chỉ định. 
+TKTGCKHTT có thể gửi và rút trong cùng một ngày. 
+TKTGCKHTT KHÔNG được phép rút một phần. 
+Rút trước hạn 
+TKTGCKHTT chỉ được rút trước hạn thông qua NHTTPBVN. 
+Lãi suất áp dụng cho các TKTGCKHTT rút trước hạn tùy thuộc vào quy định của Ngân hàng và tuân thủ theo quy định hiện hành của Ngân hàng Nhà nước Việt Nam trong từng thời kỳ. 
+Gia hạn 
+Vào ngày đến hạn, TKTGCKHTT sẽ được tự động gia hạn với cùng kỳ hạn và lãi suất tại thời điểm gia hạn. 
+Quyền được trích nợ tài khoản 
+Bất cứ lúc nào, bằng việc thông báo tới chủ Tài khoản,Ngân hàng có thể trích nợ hoặc chuyển khoản số tiền trong TKTGCKHTT để đáp ứng bất kỳ nghĩa vụ pháp lý nào, chung hay riêng, của bất kỳ Tài khoản nào của chủ Tài khoản. 
+Sao kê Tài khoản 
+Sao kê/thông tin của TKTGCKHTT có thể truy cập tại NHTTPBVN hoặc dịch vụ tin nhắn SMS của PBVN. 
+Khác 
+Tất cả các TKTGCKHTT sẽ KHÔNG được sử dụng làm tài sản đảm bảo. 
+Trong trường hợp bị khóa TKTGCKHTT, vui lòng liên hệ với Chi nhánh/Phòng giao dịch nơi Quý khách đã mở Tài khoản 
+Ngân Hàng có quyền sửa đổi bất kì quy định nào của các Điều Khoản và Điều Kiện này tùy từng thời điểm mà Ngân Hàng cho là phù hợp theo toàn quyền quyết định của Ngân Hàng.
+Những sửa đổi đó sẽ có hiệu lực sau khi Ngân Hàng thông báo cho Khách Hàng bằng bất kỳ cách thức nào mà Ngân Hàng cho là phù hợp (bao gồm nhưng không giới hạn ở việc công bố tại trụ sở Ngân Hàng hoặc tại bất kì văn phòng nào của Ngân Hàng, hoặc trên trang điện tử của Ngân Hàng hoặc theo cách thức khác do Ngân Hàng quyết định).
+Việc tiếp tục sử dụng Tài Khoản sau ngày mà các sửa đổi của các điều khoản và điều kiện này có hiệu lực (được quy định tại thông báo của Ngân Hàng) sẽ được xem là sự chấp nhận và đồng ý chịu ràng buộc của Khách Hàng đối với các sửa đổi đó.
+Nếu Khách Hàng không đồng ý với bất kì sửa đổi nào thì Khách Hàng phải ngay lập tức thông báo cho Ngân Hàng và hủy bỏ hoặc chấm dứt sử dụng các dịch vụ với Ngân Hàng và đóng (các) TKTGCKHTT. 
+Ngay khi Khách hàng đồng ý đặt TKTGCKHTT (bằng việc đánh dấu vào ô này), Khách hàng sẽ được xem như là đã đồng ý với các Điều khoản và Điều kiện này, và các Điều khoản và Điều kiện này sẽ được xem như là hợp đồng về việc sử dụng TKTGCKHTT giữa Khách hàng và Ngân hàng, có hiệu lực kể từ ngày mở cho đến ngày đóng TKTGCKHTT phù hợp với các quy định của Điều khoản và Điều kiện này.

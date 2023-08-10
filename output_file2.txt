@@ -1,54 +1,276 @@
-XÉT RẰNG
-
-(A) Khách hàng có nhu cầu sử dụng thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế ở Việt Nam và nộp đơn đăng ký phát hành thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế đến Woori Bank Việt Nam.
-(B) Woori Bank Việt Nam đồng ý cung cấp các dịch vụ thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế cho khách hàng.
-SAU KHI THẢO LUẬN, khách hàng hiểu và đồng ý với bản Điều kiện và điều khoản phát hành và sử dụng thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế này (sau đây gọi là “Điều kiện và điều khoản”) với các nội dung như sau:
-
-ĐIỀU 1: ĐỊNH NGHĨA VÀ GIẢI THÍCH
-
-Nội dung của Điều kiện và điều khoản này bao gồm thỏa thuận giữa Ngân hàng và Chủ thẻ liên quan đến việc phát hành và sử dụng Thẻ Ghi nợ hoặc Thẻ Tín dụng quốc tế của Chủ thẻ.
-Bằng việc chấp nhận và/hoặc sử dụng Thẻ Ghi nợ hoặc Thẻ Tín dụng quốc tế, Chủ thẻ chấp nhận một cách vô điều kiện tất cả các điều khoản và điều kiện dưới đây, và đảm bảo tuân thủ các quy định pháp luật hiện hành của Việt Nam.
-Các thuật ngữ trong Điều kiện và điều khoản này được hiểu như sau:
-
-1.1.
-“Tài khoản”: Là tài khoản được mở và chỉ định bởi Chủ thẻ với Ngân hàng mà thông qua đó Giao dịch thẻ được thực hiện.
-1.2.
-“Ngân hàng”: Là Ngân hàng Woori Việt Nam.
-1.3.
-“Thẻ”: Là thẻ Ghi nợ hoặc Thẻ Tín dụng quốc tế do Ngân hàng phát hành theo yêu cầu của Chủ thẻ để sử dụng cùng với các tiện ích của thẻ do Ngân hàng cung cấp.
-1.4.
-“Chủ thẻ”: Là cá nhân hoặc tổ chức được tổ chức phát hành thẻ cung cấp thẻ để sử dụng, bao gồm Chủ thẻ chính và Chủ thẻ phụ.
-1.5.
-“Chủ thẻ Chính”: Là cá nhân hoặc tổ chức đứng tên ký hợp đồng phát hành và sử dụng thẻ với tổ chức phát hành thẻ.
-1.6.
-“Chủ thẻ Phụ”: Là cá nhân được Chủ thẻ chính cho phép sử dụng thẻ và Chủ thẻ chính cam kết bằng văn bản thực hiện toàn bộ các nghĩa vụ phát sinh liên quan đến việc sử dụng thẻ theo hợp đồng phát hành và sử dụng thẻ.
-1.7.
-“Mã số xác định Chủ thẻ” (Viết tắt là PIN): Là mã số bí mật được tổ chức phát hành cấp cho Chủ thẻ lần đầu và sau đó Chủ thẻ thay đổi theo quy trình được xác định để sử dụng trong các giao dịch thẻ.
-1.8.
-“Giao dịch”: Là việc thực hiện nộp và/ hoặc rút tiền mặt, chuyển khoản, thanh toán hàng hóa dịch vụ và sử dụng các dịch vụ khác do tổ chức phát hành, tổ chức thanh toán thẻ cung cấp.
-Giao dịch chuyển khoản chỉ áp dụng đối với thẻ Ghi nợ.
-1.9.
-“Ngày làm việc”: Là các ngày từ thứ 2 đến hết thứ 6, ngoại trừ các ngày thứ bảy, chủ nhật và các ngày nghỉ lễ, Tết theo quy định của pháp luật Việt Nam.
-1.10.
-“Máy giao dịch tự động (ATM)”: Là thiết bị mà Chủ thẻ có thể sử dụng để thực hiện các giao dịch như: gửi, nộp, rút tiền mặt, chuyển khoản, thanh toán hóa đơn hàng hóa, dịch vụ, vấn tin tài khoản, đổi PIN, tra cứu thông tin thẻ hoặc các giao dịch khác.
-1.11.
-“Đơn vị chấp nhận thẻ (ĐVCNT)”: Là tổ chức, cá nhân chấp nhận thanh toán hàng hóa, dịch vụ bằng thẻ theo hợp đồng thanh toán thẻ ký kết với Tổ chức thanh toán thẻ.
-1.12.
-“BIN”: là mã Tổ chức phát hành thẻ.
-1.13.
-“Phí thường niên”: Là khoản phí được thu hàng năm để duy trì thẻ và dịch vụ.
-Phí này thu hàng năm theo từng thẻ vào tháng mà thẻ được phát hành.
-1.14.
-“Ghi nợ trực tiếp”: Là chỉ dẫn theo từng lần hoặc định kỳ ủy quyền cho Ngân hàng ghi nợ một số tiền từ tài khoản Ngân hàng hoặc tài khoản Ngân hàng khác (nếu có thể) để thanh toán trong ngày đến hạn thanh toán.
-1.15.
-“Sao kê”: Là tài liệu được phát hành bởi Ngân hàng chỉ rõ số dư nợ hiện tại và số tiền thanh toán tối thiểu theo từng kỳ hạn cụ thể và các nội dung chi tiết khác thuộc về thẻ.
-1.16.
-“Ngày đến hạn thanh toán”: Là ngày được chỉ ra trên Sao kê mà vào ngày đó thì việc thanh toán phải được thực hiện.
-1.17.
-“Khoản thanh toán tối thiểu”: Là số tiền ít nhất mà Chủ thẻ thanh toán và phải thực hiện thanh toán đó để giữ Tài khoản ở trạng thái bình thường.
-1.18.
-“Hạn mức tín dụng”: Là số tiền tối đa của khoản cấp tín dụng.
-1.19.
-“Thẻ tín dụng đảm bảo”: Là thẻ tín dụng với mức tín dụng được đảm bảo bằng tài sản đảm bảo (TSĐB) ví dụ như khoản tiền gửi có kỳ hạn.
-1.20.
-“Rút tiền mặt”: Là bất kỳ giao dịch nào mà ở đó tiền mặt hoặc giá trị tương đương được nhận.
+WHEREAS 
+TERMS AND CONDITIONS OF ISSUING AND USING INTERNATIONAL DEBIT OR CREDIT CARD 
+For individual customer  
+Customer is in demand for using an international Debit or Credit Card in Vietnam and submitted Application for issuing the international Debit or Credit card to Woori Bank Vietnam 
+Woori Bank Vietnam agrees to provide services of the international Debit or Credit card to Customers 
+AFTER DISCUSSING, the customer hereby understands and agrees with this Terms and conditions of issuing and using international Debit or Credit card (Hereinafter referred to as the “Terms and conditions”) with Articles as follows: 
+ARTICLE 1: INTERPRETATION 
+This Terms and conditions comprise the entire agreement between the Bank and the Cardholder in connection with issuing and using of the Cardholder’s international Debit or Credit card.
+By accepting and/or using the international Debit or Credit card, the Cardholder unconditionally accepts all the following terms and conditions and accepts the liability for ensuring compliance with the relevant laws of Vietnam as applicable.
+Terminology in this Terms and conditions is defined as follows: 
+“Account”: means account opened and designated by the Cardholder with the Bank through which Card Transactions are settled. 
+“The Bank”: means Woori Bank Vietnam. 
+“Card”: means an international Debit Card or Credit Card issued by the Bank at the request of the Cardholder for use in connection with card facilities provided by the Bank. 
+“Cardholder”: means an individual or organization that is authorized to use a card issued by a card issuer, including principal cardholder and supplementary cardholder; 
+“Principle Cardholder”: means an individual or organization that bears his/her/its signature in an agreement on card issuance and usage concluded with a card issuer; 
+“Supplementary Cardholder” : means an individual who is authorized by the principal cardholder to use the card and the principal commits in writing to fulfill all obligations arising from the agreement on card issuance and usage; 
+“Personal Identification Number (PIN for short)” : means a numeric password which is granted initially by a card issuer to a cardholder for use and being changed subsequently by the cardholder according to regulated process for card transactions.; 
+“Transaction”: means usage to make deposit and/or withdrawal of cash, money transfer, and payment of goods or services and to use other services provided by the card issuer and card acquirer.
+Money transfer transaction shall only apply for Debit card. 
+“Working days”: means the weekdays from Monday to Friday, except for Sundays, Saturdays and public holidays under Vietnamese laws. 
+"Automated Teller Machine (ATM)": means a device which can be used by cardholders to: make deposit or withdrawal of cash, money transfer, bill payment for goods and services, account inquiry, PIN change, account inquiry or use other services; 
+"Merchant": means an individual or organization that accepts cards as a form of payment for goods and services according to the card payment agreement concluded with card acquirer; 
+“BIN”: means Bank Identification Number. 
+“Annual Fee”: means a fee that is charged on an annual basis to maintain card and service.
+it charges per a card annually in the month of issuing the card.
+ 
+“Direct Debit” : means an instruction that may be one time or recurring to authorize to Bank to debit the amounts from the Bank account or other bank account (if possible) to effect payments on the date the payment is due. 
+“Statement”: means a document that is issued by Bank specifying the current balance outstanding and the minimum payment due for the specified period and other details pertaining to the Card. 
+“Payment Due Date”: means the date that is specified in the Cardholder’s Statement as the date by which payment must be made. 
+“Minimum Payment Due”: means the least amount that the Cardholder makes a payment and he/she must make to keep Cardholder’s Account in order. 
+“Credit Limit”: means the maximum amount of credit. 
+“Secured Credit Card”: means the Credit Card with the credit limit that is secured with collateral such as the Time Deposit. 
+“Cash Withdrawal”: means any transaction where cash or its equivalent is received. 
+ARTICLE 2: CARDHOLDER’S RIGHTS AND OBLIGATIONS 
+Cardholder‟s Rights 
+To use the Card to perform legal Transactions. 
+To use the amount of money on the Account for performance of legal and valid payment orders.
+The Bank shall facilitate the Cardholder to use the Account conveniently and safely. 
+Request the Bank for Card replacement when the current Card is lost, stolen, damaged or suspected to be made use of.
+Request the Bank to renewal a Card when the current Card is expired and Bank may implement as stipulated in this Terms and conditions at request for replacement or renewal of a new card. 
+Request the Bank’s assistance in tracing, disputes handling relating to Transaction. 
+To request the Bank where the Account is opened to perform legal and valid payment orders and to be supplied with information on card Transactions, account balance, limit as per the agreement with the Bank. 
+Other rights in accordance with laws or written agreement between the Cardholder and the Bank, which are not contrary to prevailing laws and regulations. 
+Cardholder‟s Obligations 
+To supply full, clear and accurate information relating to the opening and use of the Card.
+To timely notify and send related documents to the Bank upon arising any change in the information of Card opening documents. 
+To carry out Card transaction without violation of Vietnamese laws and undertake not to use the Card to perform illegal transaction. 
+To preserve the Card, keep confidential information on the Card, PIN and may not transfer the Card.
+Present the valid Card upon performing card transactions.
+Not to allow other person using his/her own card, not to disclose his/her Card information and PIN within the card validity. 
+To maintain a minimum balance on the Card account as stipulated by the Bank. 
+Notify the Bank of any changes of the Cardholder’s permanent address, billing address, mobile phone number or email address used for receiving the online transaction verification password.
+Provide all necessary information fully and accurately for Bank’s request within the card use and maintenance. 
+To take responsibility for any damage caused by the mistakes or being misused, defrauded upon using Card at his/her fault. 
+Not to lease, lend his/her Card.
+Not to use the Card for transactions in relation to money laundering, terrorism financing, swindling, fraud or any other illegal acts. 
+To inform the Bank immediately in cases of lost, stolen of Card or suspected to be made use of or disclosure of PIN within 24 hours of the Bank’s receiving the initial information by the fastest possible means (by telephone to Call Center, to come directly at any branch of the Bank), to conduct the payment fees as regulated by the Bank in the meantime. 
+To request the Bank to issue new PIN or new Card right after recognizing PIN disclosure. 
+To pay the Bank in time and full for all due debts, interest, fees for Card usage as provided by the Statement sent by the Bank.
+In any cases of conducting the Transaction without receiving or late receiving the Statement, Cardholder still have the responsibility to conduct the payment arising from Card usage after the Bank provides all the evidence of sending the Statement. 
+Immediately notify the Bank for any Card accident, Card accident means any accident arising out of or from the event of Card is not used as mutual agreement between the parties.
+To refund immediately and unconditionally as the Bank’s request for all the amount of money that out of balance withdrawal, out of limit withdrawal, wrong debit in the Account of Cardholder and other transactions that Cardholder cannot prove the ownership and using right.
+Cardholder agrees that the Bank can automatically debit, temporarily lock, deduct in the payment account/deposit of Cardholder to recover such amount of money without any notification. 
+Not to reuse the Card that was notified to be stolen or lost. 
+To return Card to the Bank when: found the stolen or lost Card; Card has expired; Cardholder does not want to use the Card; other cases as requested by the Bank. 
+To recognize all the recorded Transaction in the Bank’s system that has conducted before the Bank locks the Card in cases in this Terms and conditions. 
+To use Card only within the credit limit. 
+The Principle Cardholder takes responsibilities for Supplementary Cardholder’s Card using. 
+To be responsible for all the Card Transactions that were conducted before the Bank has received in writing or other methods as agreed by the parties of lost, stolen, damaged or suspected to be made use of Card, including but not limited to fraud transaction and/or fake signature by anyone. 
+To undertake to use monthly income to refund the balance outstanding Statement.
+Cardholder authorizes the Bank to have full right to deduct from monthly wage or income of the Cardholder from the Cardholder’s payment account opened in the Bank or contact directly with Cardholder’s company to receive the money for debt payment.
+Cardholder authorizes his/her company to deduct from his/her monthly wage, other income (if any) for debt payment.
+This authorization shall only be expired when Cardholder has paid all the principle debts and interests at the Bank. 
+In case of not working for the current company, Cardholder undertakes to notify the Bank 07 days prior to the proposed leaving date. 
+Cardholder recognizes and undertakes to conduct payment for all the Transactions that was duly made in accordance with the Bank’s regulations of Card payment procedure via internet and/or by Cardholder’s signature, digital signature without any dismissal, deny, rejection, change for any reasons; take full responsibilities for all conducted transactions. 
+Cardholder fully acknowledges all risk when conduct the Transaction through digital means, undertakes that all the actions made from his/her digital documents shall be under the regulations and take full responsibilities for the damage by intended/unintended digital signature disclosure. 
+Cardholder waive his/her right of suiting when the transactions have been interrupted, not conducted due to internet error, wire, system, electricity or other technical error from the supplier or the Bank, or any accidents arising from weather, earthquake, nature… 
+In case Cardholder conducts the payment for the suppliers through the Internet, Cardholder undertakes to take full responsibilities for the arising matters during the payment process as mutual agreement with the suppliers. 
+ARTICLE 3: BANK‟S RIGHTS AND OBLIGATIONS 
+Bank’s rights: 
+To gather information of the Cardholder upon proposing the issue of the Card and/or applying measures of recovering debts and reject unreasonable requests of the Cardholder.
+ 
+The Bank shall be entitled, at the own discretion, to deduct from the Cardholder’s Card and other accounts in following cases: 
+For collecting due, overdue debts, interest, annual fee and other charges arising during the account management and supply of the Card as per the written agreement signed with the Cardholder in conformity with applicable laws and regulations; 
+Upon request by competent state regulator in judicial execution of decision on administrative sanction, judgment enforcement decision, tax collection decision or other payment obligations in accordance with laws and regulations; 
+For adjusting items that are wrongly accounted, or that are not accounted to the right nature or not conformable to the details of the Card in accordance with applicable laws and regulations and notify the Cardholder for information; 
+For regular payments as per the agreement between the Cardholder and the Bank. 
+To refuse the payment order of Cardholder in following cases: 
+The Cardholder fails to fulfill requirements of payment procedure; payment order is invalid, or not compatible to registered details in the Card opening documents or not conformable to the agreement between the Cardholder and the Bank; 
+Balance on the Account is insufficient or in excess of the overdraft limit or credit limit for performing the payment order; 
+Upon receiving a written request from a competent state agency or having appropriate evidence showing that the payment order is for the purpose of money laundering, terrorism financing as stipulated by laws and regulations on anti-money laundering; 
+The Card is temporarily locked, totally blockaded or the Card is being closed, the Card is temporarily locked or blockaded partially whereas the remaining balance that is not locked, blockaded, is not sufficient (for the case of overdraft) or is in excess of the overdraft limit for performing payment orders; 
+The Card has been lost as notified by the Cardholder; 
+The Card is expired. 
+Based on transaction document, debit transaction amount from the Card and/or charge to the Card Account for any loss, damage arising in connection with the card use and debit the card account with service fees. 
+To choose the fee collection for Supplementary Cards from any Principle Cardholder or Supplementary Cardholders or both. 
+To inspect the signature and identity papers of the Cardholder upon performing Transactions.
+Refuse to authorize payment, replace card, extend the card’s validity or terminate the card use.
+In any of the above mentioned cases, the Cardholder’s obligations as stipulated in this Terms and conditions shall not be affected. 
+Other rights (if any) are implemented in accordance with laws or pursuant to an agreement in written between the Cardholder and the Bank, which are not contrary to prevailing laws and regulations. 
+The Bank shall be under no liability in the case of system handling, information transfer system…are under error, or any other reasons beyond the Bank’s control capacity. 
+To provide the Cardholder’s information, PIN number, Statement and other Card Transactions to the competent authorities and allowed organizations, individuals as provided by law; To provide Card Transactions through the Bank’s hotline when the requestor has provided the registered information correctly. 
+To lock Card/Card’s feature when receiving the information of stolen, lost Card, PIN is disclosed or suspected to be used by the registered phone number/email address provided in this Terms and conditions. 
+To recover Card at any time by notifying about this recovery to the Cardholder in case Cardholder violates regulations of law, the Bank, international card association (ICA) or this Terms and conditions, or cases of fraud Card suspicion.
+In such cases, the Bank shall be under no liability for any harm to honor, reputation of the Cardholder in recovering of Card.
+ 
+The Bank shall be under no liability for all cases of Card denied by Merchant.
+The Bank shall be also not under any liability of supplying services, goods paid by Card and shall debit in the Account all the value of Transactions paid by Card instead of delivery the goods, services or not. 
+To use the secured assets of other Cardholder’s loan to recover the debt of the Card when such debt turns into overdue loan. 
+For the Card issued for the individual whose wage is paid in the account opened in the Bank, the Bank shall have the right to lock/temporarily lock the Card to execute the debt recovery measures in case of any signs under the Bank’s evaluation that can affect the income and paying debt capacity of the Cardholder. 
+Bank’s obligations 
+To execute the payment order of the Cardholder after having verified and checked the legality, validity of the payment order. 
+To store the signature specimen of Cardholder, chief accountant or person in charge of accounting (if the customer is an entity that is required to arrange a chief accountant) and authorized persons for the purpose of verification, comparison during the use of Card. 
+To timely debit to the Cardholder’s Account for inward remittance orders, deposits to account; to timely refund the amounts that were wrongly debited to the Cardholder’s Account. 
+To timely and fully inform of the executed Transactions on the Card as per the agreement with the Cardholder and take responsibility for the correctness of the supplied information. 
+To keep the secret of information relating to the Card and Transactions on the Account of the Cardholder in accordance with applicable laws and regulations. 
+To be liable for any damage that is caused by virtue of mistakes or act of misuse, fraudulence on the Cardholder’s Account at the Bank’s fault. 
+To comply with laws and regulations on anti-money laundering and counter-terrorism financing. 
+To answer or handle requests or complaints from the Cardholder relating to the card issuance, use and repayment within less than 45 (forty five) days upon the receipt of notification from the Cardholder. 
+Lock the Card upon receiving the Cardholder’s initial notice on PIN is disclosed and the Card is lost or stolen or suspected to be made use of or by Cardholder’s request when Cardholder suspects any frauds or damages on condition that the Cardholder shall be provided exactly information with respect to the Card required by Bank as stipulated in Article 4.4.
+hereof. 
+To execute security methods, risk prevention methods for Card transactions in accordance with regulations of risk management in electrical banking; To keep the secret of information relating to Transactions by card; To ensure infrastructure system, technology for issuance, payment by Card work securely and frequently. 
+To set up, maintain 24/7 Hotline to get, solve in time Cardholder’s feedback information. 
+ARTICLE 4: USE OF THE CARD 
+The international Debit or Credit card is and will be at all times the property of the Bank, the Bank reserves the right to withdraw, at its discretion, the international Credit and Debit Card and/or any of the relevant services offered at any time and will inform the Cardholder of such withdrawal if it is deemed necessary as required by Vietnamese laws. 
+Upon receipt of the Card, the Cardholder should sign the Card immediately.
+The Card is not transferable and may only be used to effect transactions during the validity period by the Cardholder. 
+The Cardholder must keep the Card secure and ensure that the Card number and PIN are not disclosed to any third party under any circumstances or by any means whether voluntarily or otherwise.
+The Cardholder must not choose a PIN which is clearly related to the information such as birth date, phone number, ID number or which represents a recognizable part of the Cardholder’s name.
+The PIN shall not be easily guessed (such as 1111, 1234 etc…) or recorded on any item normally carried with or stored with the Card or Identifier, which could be lost or stolen with the Card.
+ 
+When the Card is lost or stolen or Card’s information is disclosed, the Cardholder must promptly notify the Bank.
+The Bank shall temporarily lock the Card within 60 minutes upon receiving the request in writing or via phone call or other methods from the Cardholder or as per the written prior agreement between the Cardholder and the Bank.
+The Bank shall be responsible for transactions happened after blocking time.
+If the Account is not locked after the Cardholder’s request, the liability is on the Cardholder until 60 minutes after the Bank received the request, and then on the Bank after 60 minutes.
+The time limit for the actions with respect to the notification received from the Cardholder shall not exceed 05 (five) working days for the Card whose BIN is issued by the State Bank or 10 (ten) working days for the Card whose BIN is issued by an ICA from the date on which the notification is received.
+In case where the Card is misused that cause damage, the Bank and the Cardholder shall determine their relevant responsibility and negotiate the measures for damage.
+Determining responsibility based on the fault of each Party.
+Each Party shall be taken responsibility within its fault limit (if any) and negotiated plan to handle the damage.
+In the event that both parties fail to reach a consensus on the measures for damage, relevant regulations of laws shall be applied. 
+The Cardholder may use the Card to pay for goods or services at retailers or suppliers who accept the Card by signing a sales slip and/or using the PIN and the Bank will debit the Account the amount of any such Transaction authorized in such way. 
+The Cardholder may use the Card in conjunction with the PIN to withdraw money from ATM which accepts the Card when they are in operation.
+The amount of money so withdrawn will be debited to the Account.
+The Cardholder may gain the information about account balance and the history of card transactions by ATM or at the Bank’s branch. 
+The international Debit or Credit card is valid up to the last day of the month/year indicated on the Card plate.
+The Card validity is under the Bank’s regulation from time to time.
+The Bank will choose whether the card is renewed or not through evaluating the Cardholder.
+This Terms and conditions is also effective to the renewed card. 
+The Cardholder accepts full responsibility for all transactions processed by the use of the international Debit or Credit card whether through ATM, POS (Point-of-Sale) Terminals or any other available device.
+Any instruction given by means of the Card shall be irrevocable.
+The Cardholder shall, in all circumstances, accept full responsibility for the use of the Card, whether or not processed with the Cardholder’s knowledge or his authority, expressed or implied.
+The Cardholder hereby authorizes the Bank to debit the Cardholder’s account with the amount of any withdrawal or transfer or carry out any such instructions that may be received by the use of the Card in accordance with the Bank’s record of transactions.
+The Cardholder is not liable for unauthorized Transactions subject to the followings: 
+Caused by the fraudulent or negligent conduct of the Bank’s employees or employees of companies involved in networking arrangements or of Merchants. 
+Made using a Card or card detail that is forged, faulty, expired or cancelled or sales vouchers which have been forged. 
+Which require a Card or PIN and happen before the Cardholder has received the Card or PIN. 
+Made after the Cardholder has reported a lost or stolen the Card to the Bank. 
+Where it is clear that neither the Cardholder nor a Supplementary Cardholder contributed to those losses. 
+That is caused because the same transaction was incorrectly charged to Cardholder‘s Account more than once. 
+The Cardholder’s Account will be debited with the amount of any withdrawal, transfer and/or other transactions effected by use of the international Debit or Credit Card.
+The Cardholder will maintain sufficient funds in the Cardholder’s Account to meet any such transactions.
+The Cardholder shall not be entitled to overdraw the Cardholder’s Account with the Bank or withdraw funds by the use of the international Debit or Credit Card in excess of the overdraft limit, if any. 
+When the Cardholder use the Card: 
+The cases may be rejected the usage; insufficiency of the account balance or credit limit, lost/stolen/damaged card, unavailable POS, exceeding a limit of card (daily or monthly), international payment, time-over, missing input on the card information to pay at on-line and other cases. 
+The Bank shall have the right to temporarily lock the Card in part or full in the following cases: lost/stolen, not-received by Cardholder, involved in fraud, Cardholder’s requested, exceeded number of PIN errors, retained overdue loan or card of the Bank and other financial institutions; in tracing process to execute Card payment, other cases stipulated in this Terms and conditions and law.
+ 
+The cases may be seized; fake, used illegally, used for the purpose of investigation and actions against crime as prescribed by law. 
+In any cases listed above not to affect to the Cardholder’s rights and obligations that stipulated in this Terms and conditions. 
+Contents not mentioned in this Terms and conditions about Card issuance and usage shall be in accordance with Vietnamese laws. 
+The Bank will set the Cardholder’s Credit Limit, at the own discretion, through evaluating his/her financial ability.
+The Cardholder must not exceed the Credit Limit offered to him/her across all credit cards.
+If a transaction amount is more than the amount of available Credit Limit at the point of the transaction, the Bank may, without notification, not process the transaction or stop payment of that transaction and reverse all entries in respect of it. 
+Overseas transactions made in US dollars will be converted into Vietnam Dong.
+Transactions in all currencies other than US dollars or Vietnam Dong will be either converted directly into Vietnam Dong or first converted into US dollars and then to Vietnam Dong.
+The rates of exchange are determined by the ICA (such as Visa) or by the Bank.
+Any such rate of exchange may also include any fees and charges any third party (including any ICA) charges the Bank and include overseas transaction fees as disclosed to the Cardholder.
+All transactions not made in VND shall be interpreted as an overseas transaction.
+We shall charge the Cardholder a handling fee/overseas transaction fee for such service.
+All of the transactions will be processed within the international guidelines of the ICA.
+The Cardholder hereby unconditionally agrees with the determination of the rate of exchange as provided by this paragraph. 
+The Cardholder can take Cash Withdrawal within the Cash Advance Limit prescribed by the Bank and the Cash Withdrawal fee is charged to the Cardholder. 
+The Scope of Card Usage: 
+The international Debit Card has the function of Cash withdrawal/ Balance Inquiry/ Deposit at ATM, Transaction at POS (On-line and Off-line, Domestic and Overseas), and Top-ups; 
+The international Credit Card has the basic function of Balance Inquiry at ATM, Transaction at POS (On-line and Off-line, Domestic and Overseas), Top-ups, Cash Withdrawal and optional function of monthly installment, Cash withdrawal and Deposit at ATM if the Cardholder chooses 
+Force Majeure 
+Neither party shall be held responsible for any delay or failure in performance of any part of this Terms and conditions to the extent such delay or failure is caused by fire, flood, explosion, war, embargo, government requirement, civil or military authority, act of God, or other similar causes beyond its control and without the fault or negligence of the delayed or non-performing party.
+Nevertheless, the Parties encountered by Force Majeure has 
+implemented all necessary measures to overcome such event. 
+Card shall only be activated as request of Cardholder by means of phone call for activation to the Bank’s hotline: 18006003 or direct request at the Bank’s branches, transaction office and ATM.
+Non-activation shall not affect the Cardholder’s responsibility of annual fee and other fee payment provided in this Terms and conditions. 
+ARTICLE 5: INTEREST, FEE 
+Loan interest, overdue fee, fee, penalty fee, related fee (if any), method of interest measure, payment and debt recovery shall be under the Bank’s issuance and announcement from time to time, publicly announced at the Bank’s head office and Card Service Fee of the Bank. 
+Annual Fee shall be charged along with the first Statement after Card is activated.
+Subsequent Annual Fee shall be charged one time a year in the month which the card was originally issued.
+All other fees and charges shall be charged as soon as a service or transaction occurs. 
+The Cardholder's Account will be debited with a charge in accordance with the Card Service Charges as issued and published in by the Bank in accordance with laws and provided to the Cardholder at the Bank’s website (woori.com.vn).
+The Bank may from time to time reasonably change the Card Service Charges provided that a prior written notice of such changes is given to the Cardholder. 
+In the event that the Account does not have sufficient funds to deduct such charges, the Bank reserves the right to deny any further Transactions.
+ 
+After the Payment Due Date, if Cardholder does not conduct the payment or pays less than the Minimum Amount Due, the unpaid amount of the Minimum Amount Due shall be turned into overdue debt.
+After 03 (three) consecutive statement period, if Cardholder does not conduct the payment or pays less than the Minimum Amount Due, all unpaid balance outstanding shall be turned into overdue debt and shall be subject to Late payment interest rate as provided. 
+ARTICLE 6: CUSTOMER INFORMATION 
+The Cardholder shall notify the Bank immediately of any changes to the Cardholder's information as of well as any method which they wish to use for communication between the Cardholder and the Bank. 
+The Bank reserves the right and the Cardholder hereby agrees to the Bank having the right to disclose to and share with and receive from other institutions and relevant authorities involved in the Card transactions information in accordance with regulations on bank card business. 
+The Cardholder hereby agrees to the Bank having the right to provide relating to Card Transaction and Cardholder’s information to the third party supplying Card support service or any affiliated partners of the Bank with the purpose of providing benefits for Cardholders or the police, State Bank of Vietnam for investigation purpose the Transaction as regulated in law. 
+Except for regulations in clause 6.2 and 6.3, the Bank shall protect the Cardholder’s information and shall not collect, use, transfer such information to third parties without the Cardholder’s consent, except at the request of the state authorities. 
+ARTICLE 7: ACTIONS AGAINS TRACE REQUESTS, COMPLAINTS AND DISPUTES 
+If there is any mistake or any doubt about a mistake that is related to Card transactions, the Cardholder is entitled to send a claim, verification request to the Bank.
+The time limit for the Cardholder to send the claim, verification request to the Bank is 60 days from the date on which the Transaction subject to verification, claim is made.
+The Bank must process the trace request made by the Cardholder and reply for Cardholder. 
+Receiving method of verification request, claim of Cardholder including: via the Bank’s hotline 18006003 (24/7) and transaction points, verification request information, claim shall only recorded and received when Cardholder verifies registered information to the Bank. 
+The Bank shall handle the verification request sent by the Cardholder and shall respond to the Cardholder within 45 (forty five) working days from the date on which the Transaction subject to verification is made. 
+The Bank accepts no responsibility for the refusal of any Merchant to honor the Card.
+Nor will the Bank be responsible in any way for any goods or services supplied to the Cardholder.
+No claim by the Cardholder against the Merchant will relieve the Cardholder from any his/her obligation to the Bank hereunder.
+In particular, the setting up, modification, or termination of direct debit authorization instructions for any regular payment to be charged to the Cardholder’s Account is strictly between the Cardholder and the respective Merchant.
+The Bank reserves the right not to set up, modify or terminate any such arrangement in the event of any dispute between the Cardholder and the relevant Merchant. 
+Any disputes or disagreement between the Cardholder and the Bank regarding to issuing and using the international Debit or Credit card in Vietnam shall be settled first by negotiation, In case that disputes or disagreement are unable to solved by negotiation, parties have the rights of submitting to competent/functional court to handle in according to applicable law. 
+Within the maximum term of 05 working days from the date of notifying the trace, claim result to the Cardholder, the Bank shall refund to the Cardholder as mutual agreement and regulation of current law for the damages not arising out of the Cardholder’s fault and/or not under force majeure cases. 
+In the expiry event of the trace, claim term, if the fault party cannot be indicated, the parties shall negotiate the actions within the next 15 working days until receiving the final result of the competent party. 
+ARTICLE 8: PROHIBITION 
+The Cardholder accepts full responsibility within Cardholder’s faults for use of the international Debit or Credit Card wrongfully or in contravention of this Terms and conditions of and undertakes to indemnify the Bank to make good any loss, damage, interest, conversion, and any other financial charges that the Bank may incur and/or suffer on account thereof.
+ 
+The Cardholder shall not use the international Credit and Debit Card for any unlawful purpose, including the purchase of goods or services prohibited by the Vietnamese laws and the jurisdiction in which the Cardholder resides. 
+ARTICLE 9: TERMINATION OF USE OF CARD AND ACCOUNT 
+The Cardholder may discontinue or terminate the Card anytime by giving a written notice to the Bank accompanied by the return of the Card cut into two pieces diagonally.
+The Cardholder shall be liable for all charges incurred, up to the receipt of the written notice duly acknowledged by the Bank.
+When the Cardholder ask the Bank to close the Credit Card, he/she should make a payment the current balance outstanding.
+Nevertheless, if any merchant requires clearing the transaction or payment that the Cardholder shall pay, the bank shall debit to the Bank account or send the statement or request the Cardholder to pay for it. 
+The Bank may, as to the circumstances in the Bank’s absolute discretion require, terminate the Card in accordance with Vietnamese laws. 
+The terms and conditions comprised in this Terms and conditions shall be deemed to remain in full force and effect if and in so far as any Transaction is completed but not debited to the Account prior to termination thereof. 
+ARTICLE 10: STATEMENT AND PAYMENT 
+The Bank will send the Cardholder a Statement of Credit Card each month.
+The Bank may not send the Cardholder a Statement for any period during which his/her card account (as recorded in the Bank’s system) is inactive or has been terminated (card account means the account opened and used in the Bank’s internal system to control and manage Card).
+The Statements will be expressed in Vietnam Dong. 
+The Cardholder should check all entries on the Statement when he/she receive it.
+If the Cardholder think there was an error or possible unauthorized use he/she must contact the Bank by call center or branch and deliver the claim to the Bank within 10 (Ten) working days of receiving such statement or the Cardholder may be liable for the error or any unauthorized Transactions. 
+Cardholder must pay at least the Minimum Payment Due each month to keep using the Card. 
+For direct debit request service, the Cardholder have to keep sufficient balances in his/her bank account at least equal to the Total Payment Due or the Minimum Payment Due as instructed by the Cardholder in the direct debit request service before the due date. 
+The Bank is not liable for any delays in processing payments between the Cardholder and Merchant. 
+The Bank applies payments to the Card Account in the following order: Interest charges, Service fees and other charges, Billed Cash Withdrawals, Billed Purchases (including any installment amount due – if any) 
+If it is not clear that a payment relates to the Cardholder’s Account, we will only credit it to his/her Account from the date the Cardholder give us clear instructions about where to credit it. 
+The remaining sum of the Card shall be refunded to Cardholder’s payment account under the Bank’s internal regulations from time to time. 
+ARTICLE 11: SECURED CREDIT CARD 
+If the Cardholder applies to the Secured Credit Card and higher credit limit, the Cardholder shall make a deposit against the Credit Limit for guarantee.
+The Credit Limit will be any percentage of his/her security deposit.
+This time deposit account shall be locked until the Cardholder fully completes all obligations under this Terms and conditions.
+In case of breaching the obligations, the Bank shall deduct from this Cardholder’s account for debt collection. 
+The Cardholder should fill in the collateral form provided by the Bank; and all documents are also required to apply the Credit Card. 
+If the Cardholder wish to close the Card or if the Bank terminate the Card, the Bank will retain his/her collateral for a period of 60 (sixty) days from the date the Card is closed.
+The Bank shall return the deposit as pr the Cardholder’s require, along with the interest due as agreed with the Bank to him/her, only after the Bank deduct all applicable payments, including interest, fees and all other charges due to the Bank. 
+ARTICLE 12: CARD SERVICE 
+Monthly Installment Plan  
+The Cardholder can convert from transaction payment into a Monthly Installment Plan from the date relevant purchases are posted to Credit Card Account to the date before the billing cycle.
+Monthly Installment Plan is applicable to only POS transaction. 
+The installment period can be designed by the Cardholder within maximum period by the Bank or choose automatically by the specific credit card product that he/she hold.
+The Cardholder shall settle payment, the installment amount and monthly fee during the installment payment period. 
+The initial installment payment amount may include the remaining balance of installment payment amount.
+Full payment can be accepted to cancel the installment. 
+Point Program: 
+The Point will be accumulated for payment for goods or services at POS and the accumulation rate is as specified in the Card product. 
+The Bank's Point Program is offered to Principle Cardholder, Point of Supplementary Cardholders are combined with the Principle Cardholder. 
+The Point validity is 03 (three) years and automatically expired by monthly first-in and first-out method.
+If the Cardholder close the Card Account, the Point will be be expired. 
+The Principle Cardholder can ask the Bank to make a conversion from the Point to cash-back.
+01 point equals to 1 VND and the minimum cash-back request is 10,000VND (the conversion ratio can be adjusted as the Bank ‘regulation from time to time). 
+ARTICLE 13: MISCELLANEOUS 
+The Bank shall have the absolute discretion to amend or supplement any of this Terms and conditions, features and benefits offered by the Card including usage of the Card, charges, termination of Card and account, rights and obligations of two parties, and others after notice to the Cardholder or notice at the Bank’s website.
+Within 05 days since the Bank notices about the amendment, supplementation to the Terms and conditions, the Cardholder shall inform the Bank to terminate the agreement for issuing and using cards in case of disagreement.
+If the Cardholder continues to use the card after 05 days since the Bank’s notice date, it is understood that the Cardholder totally agrees with such amendment, supplementation.
+The Cardholder shall be liable for all charges incurred and all other obligations under these revised this Terms and conditions until the whole amounts under the Card is repaid in full.
+The Bank shall notify this Terms and conditions, amended in accordance with Vietnam laws at the Bank’s transaction points and on the Bank’s website (woori.com.vn). 
+These terms and conditions of this Terms and conditions shall be governed by and construed in accordance with the laws of Vietnam. 
+This Terms and conditions is made in bilingual Vietnamese or English with equal validity.
+In case of discrepancies between the English and Vietnamese parts, the Vietnamese part shall prevail. 
+The details not mentioned in this Terms and conditions shall be accompanied by the Card product pamphlet or in accordance with Vietnamese laws.

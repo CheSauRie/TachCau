@@ -1,61 +1,280 @@
-WHEREAS
+XÉT RẰNG 
+ĐIỀU KIỆN VÀ ĐIỀU KHOẢN PHÁT HÀNH VÀ SỬ DỤNG THẺ GHI NỢ HOẶC THẺ TÍN DỤNG QUỐC TẾ 
+Dành cho khách hàng cá nhân  
+Khách hàng có nhu cầu sử dụng thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế ở Việt Nam và nộp đơn đăng ký phát hành thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế đến Woori Bank Việt Nam. 
+Woori Bank Việt Nam đồng ý cung cấp các dịch vụ thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế cho khách hàng. 
+SAU KHI THẢO LUẬN, khách hàng hiểu và đồng ý với bản Điều kiện và điều khoản phát hành và sử dụng thẻ Ghi nợ hoặc thẻ Tín dụng quốc tế này (sau đây gọi là “Điều kiện và điều khoản”) với các nội dung như sau: 
+ĐIỀU 1: ĐỊNH NGHĨA VÀ GIẢI THÍCH 
+Nội dung của Điều kiện và điều khoản này bao gồm thỏa thuận giữa Ngân hàng và Chủ thẻ liên quan đến việc phát hành và sử dụng Thẻ Ghi nợ hoặc Thẻ Tín dụng quốc tế của Chủ thẻ.
+Bằng việc chấp nhận và/hoặc sử dụng Thẻ Ghi nợ hoặc Thẻ Tín dụng quốc tế, Chủ thẻ chấp nhận một cách vô điều kiện tất cả các điều khoản và điều kiện dưới đây, và đảm bảo tuân thủ các quy định pháp luật hiện hành của Việt Nam.
+Các thuật ngữ trong Điều kiện và điều khoản này được hiểu như sau: 
+“Tài khoản”: Là tài khoản được mở và chỉ định bởi Chủ thẻ với Ngân hàng mà thông qua đó Giao dịch thẻ được thực hiện. 
+“Ngân hàng”: Là Ngân hàng Woori Việt Nam. 
+“Thẻ”: Là thẻ Ghi nợ hoặc Thẻ Tín dụng quốc tế do Ngân hàng phát hành theo yêu cầu của Chủ thẻ để sử dụng cùng với các tiện ích của thẻ do Ngân hàng cung cấp. 
+“Chủ thẻ”: Là cá nhân hoặc tổ chức được tổ chức phát hành thẻ cung cấp thẻ để sử dụng, bao gồm Chủ thẻ chính và Chủ thẻ phụ. 
+“Chủ thẻ Chính”: Là cá nhân hoặc tổ chức đứng tên ký hợp đồng phát hành và sử dụng thẻ với tổ chức phát hành thẻ. 
+“Chủ thẻ Phụ”: Là cá nhân được Chủ thẻ chính cho phép sử dụng thẻ và Chủ thẻ chính cam kết bằng văn bản thực hiện toàn bộ các nghĩa vụ phát sinh liên quan đến việc sử dụng thẻ theo hợp đồng phát hành và sử dụng thẻ. 
+“Mã số xác định Chủ thẻ” (Viết tắt là PIN): Là mã số bí mật được tổ chức phát hành cấp cho Chủ thẻ lần đầu và sau đó Chủ thẻ thay đổi theo quy trình được xác định để sử dụng trong các giao dịch thẻ. 
+“Giao dịch”: Là việc thực hiện nộp và/ hoặc rút tiền mặt, chuyển khoản, thanh toán hàng hóa dịch vụ và sử dụng các dịch vụ khác do tổ chức phát hành, tổ chức thanh toán thẻ cung cấp.
+Giao dịch chuyển khoản chỉ áp dụng đối với thẻ Ghi nợ. 
+“Ngày làm việc”: Là các ngày từ thứ 2 đến hết thứ 6, ngoại trừ các ngày thứ bảy, chủ nhật và các ngày nghỉ lễ, Tết theo quy định của pháp luật Việt Nam. 
+“Máy giao dịch tự động (ATM)”: Là thiết bị mà Chủ thẻ có thể sử dụng để thực hiện các giao dịch như: gửi, nộp, rút tiền mặt, chuyển khoản, thanh toán hóa đơn hàng hóa, dịch vụ, vấn tin tài khoản, đổi PIN, tra cứu thông tin thẻ hoặc các giao dịch khác. 
+“Đơn vị chấp nhận thẻ (ĐVCNT)”: Là tổ chức, cá nhân chấp nhận thanh toán hàng hóa, dịch vụ bằng thẻ theo hợp đồng thanh toán thẻ ký kết với Tổ chức thanh toán thẻ. 
+“BIN”: là mã Tổ chức phát hành thẻ. 
+“Phí thường niên”: Là khoản phí được thu hàng năm để duy trì thẻ và dịch vụ.
+Phí này thu hàng năm theo từng thẻ vào tháng mà thẻ được phát hành.
+ 
+“Ghi nợ trực tiếp”: Là chỉ dẫn theo từng lần hoặc định kỳ ủy quyền cho Ngân hàng ghi nợ một số tiền từ tài khoản Ngân hàng hoặc tài khoản Ngân hàng khác (nếu có thể) để thanh toán trong ngày đến hạn thanh toán. 
+“Sao kê”: Là tài liệu được phát hành bởi Ngân hàng chỉ rõ số dư nợ hiện tại và số tiền thanh toán tối thiểu theo từng kỳ hạn cụ thể và các nội dung chi tiết khác thuộc về thẻ. 
+“Ngày đến hạn thanh toán”: Là ngày được chỉ ra trên Sao kê mà vào ngày đó thì việc thanh toán phải được thực hiện. 
+“Khoản thanh toán tối thiểu”: Là số tiền ít nhất mà Chủ thẻ thanh toán và phải thực hiện thanh toán đó để giữ Tài khoản ở trạng thái bình thường. 
+“Hạn mức tín dụng”: Là số tiền tối đa của khoản cấp tín dụng. 
+“Thẻ tín dụng đảm bảo”: Là thẻ tín dụng với mức tín dụng được đảm bảo bằng tài sản đảm bảo (TSĐB) ví dụ như khoản tiền gửi có kỳ hạn. 
+“Rút tiền mặt”: Là bất kỳ giao dịch nào mà ở đó tiền mặt hoặc giá trị tương đương được nhận. 
+ĐIỀU 2: QUYỀN VÀ NGHĨA VỤ CỦA CHỦ THẺ 
+Quyền của Chủ thẻ 
+Sử dụng Thẻ để thực hiện các Giao dịch hợp pháp. 
+Sử dụng số tiền trên Tài khoản của mình để thực hiện các lệnh thanh toán hợp pháp, hợp lệ.
+Chủ thẻ được Ngân hàng tạo điều kiện để sử dụng Tài khoản của mình thuận tiện và an toàn. 
+Yêu cầu Ngân hàng thay thế Thẻ khi Thẻ bị thất lạc, mất cắp, hư hỏng hoặc nghi ngờ Thẻ bị lợi dụng.
+Yêu cầu Ngân hàng cấp lại thẻ mới khi Thẻ hết hạn và Ngân hàng sẽ thực hiện việc thay thế hoặc cấp Thẻ mới theo các quy định tại Điều kiện và điều khoản này. 
+Yêu cầu Ngân hàng tra soát, hỗ trợ giải quyết các khiếu nại liên quan đến các Giao dịch thẻ. 
+Yêu cầu Ngân hàng nơi mở Tài khoản thực hiện các lệnh thanh toán hợp pháp, hợp lệ và được cung cấp thông tin về các Giao dịch thẻ, số dư trên tài khoản thanh toán, hạn mức của mình theo thỏa thuận với Ngân hàng. 
+Các quyền khác theo quy định của pháp luật hoặc theo thỏa thuận trước bằng văn bản giữa Chủ thẻ với Ngân hàng và không trái với quy định của pháp luật hiện hành. 
+Nghĩa vụ của Chủ thẻ 
+Cung cấp đầy đủ, rõ ràng, chính xác các thông tin liên quan về mở và sử dụng Thẻ.
+Thông báo kịp thời và gửi các giấy tờ liên quan cho Ngân hàng khi có sự thay đổi về thông tin trong hồ sơ mở tài khoản. 
+Thực hiện Giao dịch không trái với pháp luật Việt Nam và cam kết không dùng Thẻ thực hiện giao dịch bất hợp pháp. 
+Có trách nhiệm bảo quản Thẻ và bảo mật thông tin trên Thẻ, bảo mật số PIN và không được chuyển nhượng Thẻ.
+Có trách nhiệm xuất trình Thẻ có hiệu lực khi thực hiện giao dịch Thẻ.
+Không cho người khác sử dụng Thẻ của mình, không được tiết lộ thông tin Thẻ và số PIN của mình cho người khác biết trong suốt thời gian hiệu lực thẻ. 
+Duy trì số dư tối thiểu trên Tài khoản theo quy định của Ngân hàng. 
+Thông báo cho Ngân hàng những thay đổi về địa chỉ thường trú, địa chỉ liên lạc, số điện thoại di động hoặc địa chỉ email nhận mật khẩu xác nhận giao dịch trực tuyến.
+Cung cấp đầy đủ và chính xác các thông tin cần thiết theo yêu cầu của Ngân hàng trong quá trình sử dụng, duy trì Thẻ. 
+Chịu trách nhiệm về những thiệt hại do sai sót hoặc bị lợi dụng, lừa đảo khi sử dụng thẻ do lỗi của mình. 
+Không được cho thuê, cho mượn Thẻ của mình.
+Không được sử dụng Thẻ để thực hiện cho các giao dịch nhằm mục đích rửa tiền, tài trợ khủng bố, lừa đảo, gian lận hoặc các hành vi vi phạm pháp luật khác. 
+Thông báo ngay cho Ngân hàng các trường hợp Thẻ bị thất lạc, mất cắp hoặc nghi ngờ Thẻ bị lợi dụng hoặc số PIN bị lộ trong vòng 24 giờ làm việc kể từ khi biết được các thông tin ban đầu bằng các phương thức nhanh nhất có thể (bằng cách gọi tới Trung tâm Dịch vụ khách hàng hoặc trực tiếp tới bất cứ Chi nhánh nào của Ngân hàng), đồng thời thanh toán các khoản phí theo quy định của Ngân hàng. 
+Ngay khi phát hiện Thẻ bị lộ PIN, Chủ thẻ phải yêu cầu Ngân hàng ban hành PIN mới hoặc Thẻ mới. 
+Thanh toán đầy đủ và đúng hạn cho Ngân hàng các khoản vay, lãi và phí phát sinh do việc sử dụng Thẻ theo sao kê do Ngân hàng lập và gửi cho Chủ thẻ.
+Trong trường hợp Chủ thẻ có thực hiện Giao dịch thẻ nhưng không nhận được hoặc chậm nhận được sao kê, Chủ thẻ vẫn có trách nhiệm thanh toán các khoản vay, lãi và phí phát sinh do việc sử dụng Thẻ theo quy định sau khi Ngân hàng đưa ra các bằng chứng về việc đã gửi sao kê cho Chủ thẻ. 
+Ngay lập tức thông báo cho Ngân hàng khi có bất kỳ sự cố liên quan đến Thẻ, sự cố liên quan đến 
+Thẻ được hiểu là các vấn đề phát sinh gây ra hoặc phát sinh từ việc Thẻ không được sử dụng theo đúng thỏa thuận của các bên.
+Hoàn trả ngay lập tức và vô điều kiện cho Ngân hàng theo yêu cầu của Ngân hàng đối với các khoản mà Chủ thẻ rút thừa, rút/thanh toán quá hạn mức, giao dịch ghi có nhầm vào Tài khoản của Chủ thẻ và các giao dịch khác mà Chủ thẻ không chứng minh được quyền sử dụng, sở hữu hợp pháp.
+Đồng ý để Ngân hàng tự động ghi nợ, tạm khóa và trích tiền trên tài khoản thanh toán/tiền gửi của Chủ thẻ tại Ngân hàng để thu hồi các khoản tiền này mà không cần thông báo cho Chủ thẻ. 
+Không sử dụng lại Thẻ mà Chủ thẻ đã thông báo cho Ngân hàng là bị mất cắp, thất lạc. 
+Hoàn trả lại Thẻ cho Ngân hàng khi: tìm lại được Thẻ đã báo mất cắp, thất lạc; khi Thẻ hết hạn sử dụng; khi Chủ thẻ không có nhu cầu tiếp tục sử dụng Thẻ; và các trường hợp khác theo yêu cầu của Ngân hàng. 
+Công nhận toàn bộ các Giao dịch thẻ đã được hệ thống của Ngân hàng ghi nhận trước khi Ngân hàng thực hiện khóa Thẻ theo các trường hợp quy định tại bản Điều kiện và Điều khoản này. 
+Chỉ sử dụng Thẻ trong hạn mức được Ngân hàng cấp. 
+Chủ thẻ chính chịu trách nhiệm với Ngân hàng về việc sử dụng Thẻ của Chủ thẻ phụ. 
+Chịu trách nhiệm về tất cả những Giao dịch bằng Thẻ đã thực hiện trước thời điểm Ngân hàng nhận được thông báo bằng văn bản hoặc hình thức khác theo thỏa thuận giữa các bên về việc Thẻ bị mất cắp, thất lạc, lộ PIN hoặc có nghi ngờ Thẻ đang bị lợi dụng, bao gồm nhưng không giới hạn giao dịch lừa đảo và/hoặc chữ ký giả mạo bởi bất kỳ người nào. 
+Cam kết dùng thu nhập hàng tháng ưu tiên để hoàn trả số dư nợ Sao kê.
+Chủ thẻ ủy quyền cho Ngân hàng được toàn quyền trích tiền lương và các khoản thu nhập hàng tháng của Chủ thẻ từ tài khoản tiền gửi thanh toán của Chủ thẻ tại Ngân hàng hoặc trực tiếp liên hệ để nhận tiền từ đơn vị, cơ quan của Chủ thẻ làm việc để trả nợ.
+Chủ thẻ ủy quyền cho cơ quan/đơn vị hiện Chủ thẻ đang làm việc trích tiền lương, các khoản thu nhập hàng tháng và các khoản thu nhập khác (nếu có) để chi trả cho Ngân hàng.
+Việc ủy quyền này hết hiệu lực khi Chủ thẻ đã thanh toán tất cả các khoản nợ gốc, lãi phát sinh tại Ngân hàng. 
+Trường hợp không tiếp tục làm việc tại cơ quan hiện tại, Chủ thẻ cam kết thông báo cho Ngân hàng trước thời hạn 07 ngày so với ngày dự kiến nghỉ việc. 
+Chủ thẻ công nhận, không hủy ngang và chịu trách nhiệm thanh toán tất cả các giao dịch được thực hiện theo đúng quy định của Ngân hàng về quy trình thanh toán bằng Thẻ qua Internet và/hoặc có sử dụng chữ ký, chữ ký điện tử của Chủ thẻ mà không được hủy, phủ nhận, từ chối, thay đổi, thoái thác giao dịch với bất kỳ lý do nào; cam kết chịu mọi rủi ro liên quan đến giao dịch đã được thực hiện. 
+Đối với các giao dịch thực hiện bằng phương tiện điện tử, Chủ thẻ nhận thức đầy đủ các rủi ro có thể gặp phải khi thực hiện giao dịch, cam kết các hoạt động diễn ra do chứng từ điện tử của mình lập khớp đúng quy định và chịu trách nhiệm về những thiệt hại xảy ra do vô tình hay cố ý để lộ chữ ký điện tử. 
+Chủ thẻ cam kết chấp nhận từ bỏ quyền khiếu kiện khi giao dịch có thể bị gián đoạn, không thực hiện được do bị lỗi mạng, đường truyền, hệ thống, điện, hoặc có lỗi kỹ thuật khác của bên cung ứng dịch 
+vụ hoặc của Ngân hàng, hoặc do có các sự cố xuất phát từ các nguyên nhân thời tiết, động đất, thiên tai… 
+Trường hợp Chủ thẻ thực hiện thanh toán bằng Thẻ qua Internet để thanh toán cho các nhà cung ứng dịch vụ, Chủ thẻ cam kết chịu trách nhiệm đối với các vấn đề phát sinh trong quy trình thanh toán theo thỏa thuận với nhà cung ứng dịch vụ.
+ĐIỀU 3: QUYỀN VÀ NGHĨA VỤ CỦA NGÂN HÀNG 
+Quyền của Ngân hàng 
+Thu thập Thông tin về Chủ thẻ khi đề nghị phát hành Thẻ và/hoặc áp dụng các biện pháp thu hồi nợ phù hợp với các quy định của pháp luật và có quyền từ chối các yêu cầu không hợp lý của Chủ thẻ. 
+Ngân hàng được chủ động trích (ghi Nợ) tài khoản Thẻ và các tài khoản khác của Chủ thẻ trong trường hợp: 
+Để thu các khoản nợ đến hạn, quá hạn, tiền lãi, phí thường niên và các chi phí phát sinh trong quá trình quản lý tài khoản và cung ứng Thẻ theo thỏa thuận trước bằng văn bản với Chủ thẻ phù hợp quy định của pháp luật; 
+Theo yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền trong việc cưỡng chế thi hành quyết định về xử phạt vi phạm hành chính, quyết định thi hành án, quyết định thu thuế hoặc thực hiện các nghĩa vụ thanh toán khác theo quy định của pháp luật; 
+Để điều chỉnh các khoản mục bị hạch toán sai, hạch toán không đúng bản chất hoặc không phù hợp với nội dung sử dụng của Thẻ theo quy định của pháp luật và thông báo cho Chủ thẻ biết; 
+Để chi trả các khoản thanh toán thường xuyên, định kỳ theo thỏa thuận giữa Chủ thẻ và Ngân hàng. 
+Từ chối thực hiện lệnh thanh toán của Chủ thẻ trong các trường hợp sau: 
+Chủ thẻ không thực hiện đầy đủ các yêu cầu về thủ tục thanh toán, lệnh thanh toán không hợp lệ, không khớp đúng với các yếu tố đã đăng ký trong hồ sơ mở Thẻ hoặc không phù hợp với các thỏa thuận giữa Chủ thẻ và Ngân hàng; 
+Tài khoản không có đủ số dư hoặc vượt hạn mức thấu chi hoặc hạn mức tín dụng để thực hiện thanh toán; 
+Khi có yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền hoặc có bằng chứng về việc giao dịch thanh toán nhằm rửa tiền, tài trợ khủng bố theo quy định của pháp luật về phòng chống rửa tiền; 
+Thẻ đang bị tạm khóa, bị phong tỏa toàn bộ hoặc Thẻ đang bị đóng, Thẻ bị tạm khóa hoặc phong tỏa một phần mà phần không bị tạm khóa, phong tỏa không có đủ số dư (trừ trường hợp thấu chi) hoặc vượt hạn mức thấu chi để thực hiện việc thanh toán; 
+Thẻ bị mất theo thông báo của Chủ thẻ; 
+Thẻ bị hết hạn. 
+Dựa vào (các) chứng từ Giao dịch để ghi nợ tài khoản thẻ và/hoặc ghi nợ (các) khoản mất mát hay thiệt hại phát sinh liên quan đến việc sử dụng Thẻ và ghi nợ Tài khoản (các) khoản phí dịch vụ. 
+Lựa chọn việc thu phí đối với Thẻ phụ từ bất kỳ Chủ thẻ chính hoặc Chủ thẻ phụ hoặc cả hai. 
+Kiểm tra chữ ký và giấy tờ tùy thân của Chủ thẻ khi thực hiện các Giao dịch.
+Từ chối ủy quyền thanh toán, thay thế thẻ, gia hạn thẻ hoặc chấm dứt việc sử dụng thẻ.
+Trong bất cứ trường hợp nào nêu trên, các nghĩa vụ của Chủ thẻ quy định tại Điều kiện và điều khoản này sẽ không bị ảnh hưởng. 
+Các quyền khác (nếu có) sẽ thực hiện theo quy định của pháp luật hoặc theo thỏa thuận trước bằng văn bản giữa Chủ thẻ và Ngân hàng và không trái với quy định của pháp luật hiện hành. 
+Ngân hàng được miễn trách nhiệm trong trường hợp hệ thống xử lý, hệ thống truyền tin … bị trục trặc, hoặc vì bất kỳ lý do gì ngoài khả năng kiểm soát của Ngân hàng. 
+Cung cấp cho các cơ quan có thẩm quyền và tổ chức, cá nhân được phép khác thông tin về Chủ thẻ, số PIN, Sao kê và các Giao dịch thẻ theo đúng quy định của pháp luật; cung cấp các thông tin Giao dịch Thẻ qua tổng đài khi người yêu cầu cung cấp thông tin khai báo đúng thông tin Chủ thẻ đã đăng ký. 
+Được quyền khóa Thẻ/tính năng trên thẻ khi nhận được thông báo Thẻ bị mất cắp, thất lạc, lộ PIN hoặc Ngân hàng có nghi ngờ Thẻ/thông tin thẻ đang bị lợi dụng theo số điện thoại/địa chỉ email đã thỏa thuận tại Điều khoản và điều kiện này. 
+Thu hồi Thẻ bất kỳ lúc nào bằng cách thông báo về việc thu hồi này cho Chủ thẻ trong các trường hợp Chủ thẻ vi phạm quy định của pháp luật, của Ngân hàng, của tổ chức thẻ quốc tế (TCTQT) hoặc vi phạm các thỏa thuận trong Điều kiện và điều khoản này, hoặc các trường hợp nghi ngờ thẻ giả, giả mạo.
+Trong trường hợp này, Ngân hàng được miễn trách đối với bất kỳ sự phương hại nào tới danh dự, uy tín của Chủ thẻ trong việc thu hồi lại Thẻ. 
+Ngân hàng không chịu trách nhiệm đối với bất kỳ trường hợp nào thẻ bị ĐVCNT từ chối.
+Đồng thời không chịu trách nhiệm về việc cung ứng hàng hóa, dịch vụ đã được thanh toán bằng thẻ và được quyền ghi nợ vào tài khoản giá trị các giao dịch đã thanh toán bằng thẻ cho dù hàng hóa, dịch vụ có được giao, nhận, được thực hiện đúng, đủ hay không. 
+Được quyền sử dụng TSĐB của các khoản vay khác của Chủ thẻ tại Ngân hàng để thu nợ cho khoản vay của Thẻ khi dư nợ Thẻ chuyển thành nợ quá hạn. 
+Đối với Thẻ phát hành theo diện cho khách hàng là cá nhân trả lương tại Ngân hàng, Ngân hàng có quyền khóa/tạm khóa Thẻ của Chủ thẻ và thực hiện các biện pháp thu hồi nợ vay trong trường hợp đơn vị trả lương của Chủ thẻ có các dấu hiệu theo đánh giá của Ngân hàng có thể ảnh hưởng tới nguồn thu nhập và khả năng trả nợ đầy đủ, đúng hạn của Chủ thẻ. 
+Nghĩa vụ của Ngân hàng 
+Thực hiện lệnh thanh toán của Chủ thẻ sau khi đã kiểm tra, kiểm soát tính hợp pháp, hợp lệ của lệnh thanh toán. 
+Lưu giữ mẫu chữ ký của Chủ thẻ, kế toán trưởng hoặc người phụ trách kế toán (trường hợp khách 
+hàng là tổ chức thuộc đối tượng bắt buộc phải bố trí kế toán trưởng) và những người được ủy quyền để kiểm tra, đối chiếu trong quá trình sử dụng Thẻ. 
+Ghi Có vào tài khoản Chủ thẻ kịp thời các lệnh thanh toán chuyển tiền đến, nộp tiền mặt vào tài khoản; hoàn trả kịp thời các khoản tiền do sai sót, nhầm lẫn đã ghi Nợ đối với tài khoản của Chủ thẻ. 
+Thông tin đầy đủ, kịp thời về các Giao dịch phát sinh trên Thẻ theo thỏa thuận với Chủ thẻ và chịu trách nhiệm về tính chính xác đối với những thông tin mà mình cung cấp. 
+Đảm bảo bí mật các thông tin liên quan đến Thẻ và Giao dịch trên Tài khoản của Chủ thẻ theo quy định của pháp luật. 
+Chịu trách nhiệm về những thiệt hại do sai sót hoặc bị lợi dụng, lừa đảo trên Tài khoản của Chủ thẻ do lỗi của Ngân hàng. 
+Tuân thủ quy định pháp luật phòng chống rửa tiền và tài trợ khủng bố. 
+Giải quyết hoặc trả lời các khiếu nại, thắc mắc của Chủ thẻ có liên quan đến việc phát hành, sử dụng và thanh toán Thẻ trong vòng không quá 45 ngày kể từ ngày nhận được thông báo từ phía Chủ thẻ. 
+Khóa Thẻ khi nhận được thông báo ban đầu của Chủ thẻ về việc Thẻ bị lộ số PIN, Thẻ bị thất lạc/mất cắp hoặc nghi ngờ bị lợi dụng hoặc theo đề nghị của Chủ thẻ khi Chủ thẻ nghi ngờ có gian lận và tổn thất, với điều kiện Chủ thẻ cung cấp chính xác thông tin do Ngân hàng yêu cầu liên quan đến Tài khoản như được quy định tại Điều 4.4 dưới đây. 
+Thực hiện các biện pháp đảm bảo an toàn, phòng ngừa rủi ro cho Giao dịch theo các nguyên tắc quản lý rủi ro trong hoạt động Ngân hàng điện tử; bảo mật thông tin liên quan đến hoạt động Thẻ; bảo đảm hệ thống cơ sở hạ tầng, kỹ thuật phục vụ quản lý hoạt động phát hành, thanh toán thẻ vận hành thông suốt và an toàn; 
+Thiết lập, duy trì đường dây nóng liên tục 24/7 để tiếp nhận, xử lý kịp thời các thông tin phản ánh của Chủ thẻ. 
+ĐIỀU 4: SỬ DỤNG THẺ 
+Thẻ Ghi nợ quốc tế hoặc Tín dụng quốc tế là và sẽ luôn là tài sản của Ngân hàng, Ngân hàng giữ quyền quyết định thu hồi Thẻ Ghi nợ quốc tế và Tín dụng quốc tế và/hoặc bất kỳ các dịch vụ nào có liên quan được cung cấp vào bất kỳ thời điểm nào và sẽ thông báo cho Chủ thẻ về sự thu hồi đó nếu cần thiết theo yêu cầu của pháp luật Việt Nam. 
+Khi nhận được Thẻ, Chủ thẻ cần ký vào Thẻ ngay lập tức.
+Thẻ sẽ không thể chuyển giao và chỉ có thể được sử dụng để thực hiện các Giao dịch trong thời hạn hiệu lực bởi Chủ thẻ. 
+Chủ thẻ phải giữ Thẻ an toàn và đảm bảo rằng số Thẻ và số PIN không bị tiết lộ cho bất kỳ bên thứ ba nào trong bất kỳ hoàn cảnh nào hoặc bằng bất kỳ phương thức nào cho dù tự nguyện hoặc không.
+Chủ thẻ không được chọn một mã PIN mà rõ ràng có liên quan đến các thông tin như là ngày sinh, số điện thoại, số CMND hoặc đưa ra một phần có thể nhận biết là tên của Chủ thẻ.
+Mã PIN không được dễ đoán (như là 111.
+1234 vv…) hoặc được ghi trên các vật dụng thường xuyên được mang theo hoặc lưu trữ cùng với Thẻ hoặc thông tin nhận dạng hoặc các vật có thể bị mất hay đánh cắp cùng với Thẻ. 
+Khi mất Thẻ hoặc lộ thông tin Thẻ, Chủ thẻ phải thông báo ngay cho Ngân hàng.
+Ngân hàng sẽ tạm khóa Thẻ trong vòng tối đa là 60 phút kể từ thời điểm nhận được yêu cầu qua điện thoại hoặc các hình thức khác từ Chủ thẻ hoặc theo thỏa thuận trước bằng văn bản giữa Chủ thẻ và Ngân hàng.
+Ngân hàng chịu trách nhiệm về các giao dịch phát sinh sau thời điểm khóa thẻ.
+Nếu Tài khoản không được khóa sau khi Khách hàng yêu cầu, trách nhiệm của Chủ thẻ chỉ kéo dài tới hết 60 phút tính từ thời điểm Ngân hàng nhận được yêu cầu, sau 60 phút này thì Ngân hàng sẽ phải chịu trách nhiệm.
+Thời hạn Ngân hàng hoàn thành việc xử lý thông báo nhận được từ Chủ thẻ là không quá 05 ngày làm việc đối với Thẻ có BIN do Ngân hàng Nhà nước cấp hoặc 10 ngày làm việc đối với Thẻ có BIN do một TCTQT cấp kể từ ngày nhận được thông báo của Chủ thẻ.
+Trong trường hợp Thẻ bị lợi dụng, gây ra thiệt hại, Ngân hàng và Chủ thẻ cùng phân định trách nhiệm và thương lượng cách xử lý hậu quả.
+Việc xác định trách nhiệm sẽ dựa trên yếu tố lỗi của Các Bên.
+Các Bên chịu trách nhiệm trong phần lỗi (nếu có) của mình và cùng thương lượng cách xử lý hậu quả.
+Trường hợp hai bên không thống nhất thì việc xử lý được thực hiện theo quy định của pháp luật. 
+Chủ thẻ có thể sử dụng Thẻ để thanh toán cho hàng hóa hoặc các dịch vụ tại các trung tâm bán lẻ hoặc các đơn vị chấp nhận Thẻ bằng việc ký phiếu bán hàng và/hoặc sử dụng số PIN và Ngân hàng sẽ ghi nợ vào Tài khoản giá trị của Giao dịch theo cách đó. 
+Chủ thẻ có thể sử dụng Thẻ cùng với số PIN để rút tiền từ máy ATM chấp nhận Thẻ trong thời gian hoạt động.
+Số tiền được rút đó sẽ được ghi nợ vào Tài khoản.
+Chủ thẻ có thể kiểm tra thông tin về số dư Tài khoản và lịch sử giao dịch thẻ qua máy ATM hoặc tại chi nhánh của Ngân hàng. 
+Thẻ Tín dụng quốc tế hoặc thẻ Ghi nợ quốc tế có giá trị cho đến ngày cuối cùng của tháng/năm ghi trên thẻ.
+Thời hạn giá trị của thẻ theo quy định của Ngân hàng trong từng thời kỳ.
+Ngân hàng sẽ lựa chọn việc thẻ có được gia hạn mới hay không tùy thuộc vào việc đánh giá Chủ thẻ.
+Điều kiện và điều khoản này này cũng có giá trị khi gia hạn mới cho thẻ. 
+Chủ thẻ chịu toàn bộ trách nhiệm đối với các giao dịch được tiến hành bằng việc sử dụng Thẻ Tín dụng quốc tế hoặc thẻ Ghi nợ quốc tế cho dù thực hiện qua ATM, POS (điểm bán hàng) hoặc bất kỳ phương tiện sẵn có nào khác.
+Bất kỳ chỉ dẫn nào được đưa ra bằng Thẻ sẽ không thể hủy ngang.
+Chủ thẻ, trong mọi trường hợp, phải chấp nhận toàn bộ trách nhiệm đối với việc dùng Thẻ, cho dù được thực hiện với sự hiểu biết hoặc cho phép của Chủ thẻ hay không, rõ ràng hay ngầm định.
+Chủ thẻ theo đây ủy quyền cho Ngân hàng ghi nợ (các) tài khoản của Chủ thẻ (các) khoản tiền được rút hoặc chuyển hoặc được thực hiện bởi bất kỳ chỉ thị nào mà có thể nhận được bằng việc sử dụng Thẻ theo ghi nhận giao dịch của Ngân hàng.
+Chủ thẻ không phải chịu trách nhiệm về các Giao dịch trái phép thuộc các nội dung sau: 
+Bị gây ra bởi hành động gian lận hay cẩu thả của nhân viên Ngân hàng hoặc của nhân viên các công ty có liên quan đến các thỏa thuận liên kết hoặc của ĐVCNT; 
+Được thực hiện bằng việc sử dụng Thẻ hoặc các chi tiết của Thẻ giả mạo, hỏng, hết hạn hoặc bị hủy bỏ hoặc hóa đơn bán hàng giả mạo; 
+Sử dụng Thẻ hoặc mã PIN và đã sử dụng trước khi Chủ Tài khoản nhận được Thẻ hoặc Mã PIN; 
+Được thực hiện sau khi Chủ thẻ đã thông báo tới Ngân hàng về việc Thẻ bị mất hoặc đánh cắp; 
+Khi đã rõ ràng rằng không phải Chủ thẻ hay một Chủ thẻ Phụ nào đã góp phần gây ra tổn thất đó; 
+Gây ra bởi cùng một giao dịch đã bị tính hơn một lần vào Tài khoản của Chủ thẻ do sai sót. 
+Tài khoản của Chủ thẻ sẽ được ghi Nợ số tiền rút, chuyển và/hoặc các giao dịch khác thực hiện bằng Thẻ Ghi nợ quốc tế hoặc thẻ Tín dụng quốc tế.
+Chủ thẻ sẽ duy trì đủ tiền trong tài khoản của Chủ thẻ để đáp ứng bất kỳ giao dịch nào.
+Chủ thẻ không được rút quá số dư tài khoản của Chủ thẻ hoặc rút tiền bằng cách sử dụng Thẻ Ghi nợ quốc tế hoặc thẻ Tín dụng quốc tế vượt quá hạn mức thấu chi, nếu có. 
+Trong quá trình sử dụng Thẻ:  
+Thẻ có thể bị từ chối quyền sử dụng trong trường hợp: thiếu số dư tài khoản, thẻ bị mất/mất cắp/hư hỏng, lỗi POS, quá hạn mức thẻ (ngày hoặc tháng), thanh toán quốc tế, hết hạn, nhập thiếu thông tin thẻ để thanh toán online và các trường hợp khác. 
+Ngân hàng có quyền tạm khóa một phần hoặc toàn bộ Thẻ trong các trường hợp sau đây: bị mất/mất cắp, chưa được nhận bởi Chủ thẻ, liên quan đến gian lận/lừa đảo, theo yêu cầu của Chủ thẻ, lỗi do nhập quá lần số PIN, giữ lại nợ quá hạn hoặc Thẻ của Ngân hàng hoặc (các) tổ chức tín dụng khác, trong quá trình đối soát để thực hiện thanh toán của Thẻ, các trường hợp khác quy định tại Điều kiện và điều khoản này và theo quy định pháp luật. 
+Thẻ có thể bị tịch thu trong trường hợp: thẻ giả, sử dụng trái pháp luật, thẻ được sử dụng với mục đích điều tra và hoạt động chống tội phạm được quy định bởi pháp luật. 
+Trong bất kỳ trường hợp nào được nêu trên sẽ không làm ảnh hưởng đến nghĩa vụ và trách nhiệm của Chủ thẻ được quy định trong Thỏa thuận này. 
+Các nội dung không được đề cập trong Thỏa thuận này về phát hành và sử dụng thẻ sẽ tuân theo pháp luật Việt Nam. 
+Ngân hàng sẽ cấp hạn mức tín dụng của Chủ thẻ thông qua việc đánh giá khả năng tài chính của khách hàng.
+Chủ thẻ không được sử dụng quá hạn mức tín dụng được cấp.
+Nếu số tiền giao dịch nhiều hơn hạn mức tín dụng tại thời điểm giao dịch, Ngân hàng có thể không thông báo, không thực hiện giao dịch hoặc dừng thanh toán giao dịch đó và thu hồi lại các lần thực hiện liên quan. 
+Giao dịch tại nước ngoài thực hiện bằng Đô la Mỹ sẽ được quy đổi sang Việt Nam Đồng.
+Giao dịch không phải Đô la Mỹ hoặc Việt Nam Đồng sẽ được quy đổi trực tiếp sang Việt Nam Đồng hoặc trước tiên quy đổi sang Đô la Mỹ rồi sau đó quy đổi sang Việt Nam Đồng.
+Tỷ giá quy đổi được xác định bởi TCTQT (như Visa) hoặc bởi Ngân hàng.
+Bất kỳ tỷ giá quy đổi nào cũng bao gồm các lọai phí và các khoản thu của bên thứ ba (bao gồm cả các TCTQT) thu của Ngân hàng và bao gồm cả phí giao dịch nước ngoài như đã được thông báo cho Chủ thẻ.
+Tất cả các giao dịch không được thực hiện bằng Việt Nam đồng sẽ được hiểu là giao dịch nước ngoài.
+Ngân hàng sẽ thu phí quản lý giao dịch nước ngoài cho dịch vụ này.
+Tất cả các giao dịch sẽ được thực hiện theo hướng dẫn của TCTQT.
+Chủ thẻ theo đây đồng ý với cách xác định tỷ giá được cung cấp như trên. 
+Chủ thẻ có thể rút tiền mặt trong giới hạn ứng tiền quy định bởi Ngân hàng và phí rút tiền mặt được thu từ Chủ thẻ. 
+Phạm vi sử dụng thẻ: 
+Thẻ ghi nợ quốc tế sử dụng để rút tiền/ kiểm tra số dư/nộp tiền tại ATM, giao dịch tại POS (giao dịch trực tuyến và không trực tuyến, nội địa và quốc tế), Top-ups; 
+Thẻ tín dụng quốc tế có các chức năng cơ bản của kiểm tra số dư trên ATM, giao dịch tại POS (Trực truyến và không trực tuyến, nội địa và quốc tế), Top-ups, rút tiền mặt và lựa chọn chức năng thanh toán trả góp hàng tháng, rút tiền và nộp tiền tại ATM nếu Chủ thẻ lựa chọn. 
+Trường hợp bất khả kháng 
+Không bên nào phải chịu trách nhiệm cho bất kỳ sự chậm trễ hay vi phạm nào được quy định trong Điều kiện và điều khoản trong trường hợp những chậm trễ hay vi phạm bị gây ra bởi hỏa hoạn, lũ lụt, nổ, chiến tranh, cấm vận, yêu cầu của chính phủ, quân đội, thiên tai hay các nguyên nhân khác vượt ngoài tầm kiểm soát của mỗi bên và không có lỗi hay sự cẩu thả của bên chậm trễ hay vi phạm.
+Tuy nhiên, các bên gặp phải trường hợp bất khả kháng cần thực hiện các biện pháp khắc phục cần thiết. 
+Thẻ sẽ chỉ được kích hoạt theo yêu cầu của Chủ thẻ bằng việc gọi điện thoại yêu cầu kích hoạt tại tổng đài điện thoại của Ngân hàng 18006003 hoặc yêu cầu trực tiếp tại các Chi nhánh, phòng giao dịch và ATM của Ngân hàng.
+Việc không thực hiện kích hoạt Thẻ sẽ không ảnh hưởng đến trách nhiệm của Chủ thẻ trong việc nộp phí thường niên và các loại phí khác theo quy định tại bản Điều kiện và điều khoản này. 
+ĐIỀU 5: LÃI SUẤT, PHÍ 
+Lãi suất cho vay, lãi suất quá hạn, phí, phí phạt, các loại phí liên quan (nếu có), cách tính lãi, thanh toán và thu hồi nợ đối với việc sử dụng Thẻ do Ngân hàng ban hành và thay đổi theo từng thời kỳ, được công bố công khai tại trụ sở, website Ngân hàng, và quy định Biểu phí Dịch vụ Thẻ do Ngân hàng công bố.
+ 
+Phí thường niên được thu theo Sao kê đầu tiên cho dù thẻ chưa được kích hoạt.
+Phí thường niên các năm tiếp theo sẽ được tính một lần một năm vào tháng tương ứng mà thẻ lần đầu được phát hành.
+Tất cả các phí khác sẽ được thu ngay khi khách hàng sử dụng dịch vụ hoặc khi giao dịch phát sinh. 
+Tài khoản của Chủ thẻ sẽ được ghi nợ khoản phí phù hợp với Biểu phí Dịch vụ Thẻ do Ngân hàng quy định phù hợp với quy định của pháp luật đồng thời được niêm yết công khai và cung cấp cho Chủ thẻ tại website của Ngân hàng (woori.com.vn).
+Ngân hàng có thể thay đổi Biểu phí Dịch vụ Thẻ này tùy từng thời điểm hợp lý với điều kiện phải gửi thông báo trước về mức phí mới này đến Chủ thẻ. 
+Trong trường hợp Tài khoản không có đủ tiền để khấu trừ các phí đó, Ngân hàng được quyền từ chối bất kỳ Giao dịch nào tiếp theo. 
+Sau Ngày đến hạn thanh toán, nếu Chủ thẻ không thanh toán hoặc thanh toán số tiền nhỏ hơn Khoản thanh toán tối thiểu, số tiền chưa thanh toán của Khoản thanh toán tối thiểu sẽ chuyển sang nợ quá hạn.
+Sau 03 (ba) kỳ sao kê liên tiếp mà Chủ thẻ không thanh toán hoặc thanh toán số tiền nhỏ hơn Khoản thanh toán tối thiểu, toàn bộ dư nợ chưa thanh toán sẽ chuyển sang nợ quá hạn.
+Toàn bộ dư nợ quá hạn sẽ áp dụng lãi suất quá hạn theo quy định. 
+ 
+ĐIỀU 6: THÔNG TIN KHÁCH HÀNG 
+Chủ thẻ phải thông báo cho Ngân hàng ngay lập tức về bất kỳ thay đổi nào đối với thông tin của Chủ thẻ bằng bất kỳ phương thức nào mà Chủ thẻ muốn sử dụng để trao đổi thông tin giữa Chủ thẻ và Ngân hàng. 
+Ngân hàng có quyền và Chủ thẻ theo đây đồng ý để Ngân hàng được quyền tiết lộ và chia sẻ với và nhận từ các tổ chức, cơ quan nhà nước có thẩm quyền có liên quan đến giao dịch Thẻ theo quy định về hoạt động thẻ Ngân hàng. 
+Chủ thẻ theo đây đồng ý để Ngân hàng được quyền cung cấp thông tin liên quan đến Giao dịch Thẻ và thông tin của Chủ thẻ cho bên thứ ba cung cấp dịch vụ hỗ trợ hoạt động Thẻ hoặc bên thứ ba hợp tác với Ngân hàng với mục đích gia tăng thêm giá trị sử dụng Thẻ cho Chủ thẻ hoặc cơ quan công an, Ngân hàng Nhà nước để điều tra về giao dịch theo quy định của pháp luật. 
+Ngoại trừ quy định tại Khoản 6.2 và 6.3 Điều này, Ngân hàng có trách nhiệm bảo vệ thông tin của Chủ thẻ, không được phép thu thập, sử dụng, chuyển giao thông tin của Chủ thẻ cho bên thứ ba khi chưa được sự đồng ý của Chủ thẻ, trừ trường hợp được yêu cầu bởi cơ quan nhà nước có thẩm quyền. 
+ĐIỀU 7: XỬ LÝ TRA SOÁT, KHIẾU NẠI VÀ GIẢI QUYẾT TRANH CHẤP 
+Khi phát hiện có sai sót hoặc nghi ngờ có sai sót về giao dịch Thẻ, Chủ thẻ có quyền khiếu nại, yêu cầu Ngân hàng tra soát.
+Thời hạn Chủ thẻ phải gửi khiếu nại, yêu cầu tra soát cho Ngân hàng là 60 ngày kể từ ngày phát sinh giao dịch đề nghị khiếu nại, yêu cầu tra soát.
+Ngân hàng có trách nhiệm giải quyết yêu cầu tra soát của Chủ thẻ và trả lời cho Chủ thẻ. 
+Hình thức tiếp nhận thông tin tra soát, khiếu nại của Chủ thẻ bao gồm qua tổng đài điện thoại của Ngân hàng 18006003 (24/7) và qua các điểm giao dịch của Ngân hàng, thông tin tra soát, khiếu nại chỉ được ghi nhận và tiếp nhận khi Chủ thẻ xác thực các thông tin đã đăng ký cho Ngân hàng 
+Ngân hàng có trách nhiệm xử lý yêu cầu tra soát, khiếu nại của Chủ thẻ và trả lời cho Chủ thẻ trong vòng 45 ngày kể từ ngày nhận được yêu cầu tra soát từ Chủ thẻ. 
+Ngân hàng không chịu trách nhiệm đối với việc từ chối chấp nhận Thẻ từ bất kỳ ĐVCNT.
+Ngân hàng cũng không chịu trách nhiệm theo bất kỳ cách thức nào đối với bất kỳ hàng hóa hoặc dịch vụ nào được cung cấp cho Chủ thẻ.
+Bất cứ yêu cầu khiếu nại nào của Chủ thẻ đối với ĐVCNT đều không loại bỏ nghĩa vụ của Chủ thẻ đối với Ngân hàng theo đây.
+Cụ thể, việc thiết lập, điều chỉnh hoặc chấm dứt chỉ dẫn ủy quyền ghi nợ trực tiếp cho bất kỳ khoản thanh toán thường xuyên nào được tính vào Tài khoản của Chủ thẻ là hoàn toàn giữa Chủ thẻ và (các) ĐVCNT tương ứng.
+Ngân hàng có quyền không thiết lập, điều chỉnh hoặc chấm dứt bất kỳ thỏa thuận nào trong trường hợp có tranh chấp giữa Chủ thẻ và ĐVCNT có liên quan. 
+Bất kỳ tranh chấp hoặc bất đồng ý kiến nào giữa Chủ thẻ và Ngân hàng liên quan đến việc phát hành và sử dụng Thẻ Tín dụng quốc tế hoặc thẻ Ghi nợ quốc tế tại Việt Nam sẽ được giải quyết trước tiên bằng thương lượng thiện chí giữa hai bên.
+Trong trường hợp các tranh chấp/bất đồng không thể giải quyết được bằng thương lượng thì các bên có quyền yêu cầu các cơ quan/tổ chức có thẩm quyền/chức năng giải quyết theo quy định pháp luật. 
+Trong thời hạn tối đa 05 ngày làm việc kể từ ngày thông báo kết quả tra soát, khiếu nại cho Chủ thẻ, Ngân hàng thực hiện bồi hoàn cho Chủ thẻ theo thỏa thuận và quy định của pháp luật hiện hành đối với những tổn thất phát sinh không do lỗi của Chủ thẻ và/hoặc không thuộc các trường hợp bất khả kháng thỏa thuận tại hợp đồng.
 
-(A) Customer is in demand for using an international Debit or Credit Card in Vietnam and submitted Application for issuing the international Debit or Credit card to Woori Bank Vietnam
-
-(B) Woori Bank Vietnam agrees to provide services of the international Debit or Credit card to Customers
-
-AFTER DISCUSSING, the customer hereby understands and agrees with this Terms and conditions of issuing and using international Debit or Credit card (Hereinafter referred to as the “Terms and conditions”) with Articles as follows:
-
-ARTICLE 1: INTERPRETATION
-
-This Terms and conditions comprise the entire agreement between the Bank and the Cardholder in connection with issuing and using of the Cardholder’s international Debit or Credit card.
-By accepting and/or using the international Debit or Credit card, the Cardholder unconditionally accepts all the following terms and conditions and accepts the liability for ensuring compliance with the relevant laws of Vietnam as applicable.
-Terminology in this Terms and conditions is defined as follows:
-
-1.1.
-“Account”: means account opened and designated by the Cardholder with the Bank through which Card Transactions are settled.
-1.2.
-“The Bank”: means Woori Bank Vietnam.
-1.3.
-“Card”: means an international Debit Card or Credit Card issued by the Bank at the request of the Cardholder for use in connection with card facilities provided by the Bank.
-1.4.
-“Cardholder”: means an individual or organization that is authorized to use a card issued by a card issuer, including principal cardholder and supplementary cardholder;
-
-1.5.
-“Principle Cardholder”: means an individual or organization that bears his/her/its signature in an agreement on card issuance and usage concluded with a card issuer;
-
-1.6.
-“Supplementary Cardholder” : means an individual who is authorized by the principal cardholder to use the card and the principal commits in writing to fulfill all obligations arising from the agreement on card issuance and usage;
-
-1.7.
-“Personal Identification Number (PIN for short)” : means a numeric password which is granted initially by a card issuer to a cardholder for use and being changed subsequently by the cardholder according to regulated process for card transactions.
-1.8.
-“Transaction”: means usage to make deposit and/or withdrawal of cash, money transfer, and payment of goods or services and to use other services provided by the card issuer and card acquirer.
-Money transfer transaction shall only apply for Debit card.
-1.9.
-“Working days”: means the weekdays from Monday to Friday, except for Sundays, Saturdays and public holidays under Vietnamese laws.
-1.10.
-"Automated Teller Machine (ATM)": means a device which can be used by cardholders to: make deposit or withdrawal of cash, money transfer, bill payment for goods and services, account inquiry, PIN change, account inquiry or use other services;
-
-1.11.
-"Merchant": means an individual or organization that accepts cards as a form of payment for goods and services according to the card payment agreement concluded with card acquirer;
-
-1.12.
-“BIN”: means Bank Identification Number.
-1.13.
-“Annual Fee”: means a fee that is charged on an annual basis to maintain card and service.
-it charges per a card annually in the month of issuing the card.
-1.14.
-“Direct Debit” : means an instruction that may be one time or recurring to authorize to Bank to debit the amounts from the Bank account or other bank account (if possible) to effect payments on the date the payment is due.
-1.15.
-“Statement”: means a document that is issued by Bank specifying the current balance outstanding and the minimum payment due for the specified period and other details pertaining to the Card.
-1.16.
-“Payment Due Date”: means the date that is specified in the Cardholder’s Statement as the date by which payment must be made.
-1.17.
-“Minimum Payment Due”: means the least amount that the Cardholder makes a payment and he/she must make to keep Cardholder’s Account in order.
-1.18.
-“Credit Limit”: means the maximum amount of credit.
-1.19.
-“Secured Credit Card”: means the Credit Card with the credit limit that is secured with collateral such as the Time Deposit.
-1.20.
-“Cash Withdrawal”: means any transaction where cash or its equivalent is received.
+Trong trường hợp hết thời hạn xử lý đề nghị tra soát, khiếu nại theo thỏa thuận tại Điều kiện và điều khoản này mà vẫn chưa xác định được nguyên nhân hay lỗi thuộc bên nào thì trong vòng 15 ngày làm việc tiếp theo, các bên cùng thỏa thuận về phương án xử lý cho đến khi có kết luận cuối cùng của cơ quan có thẩm quyền phân định rõ lỗi và trách nhiệm của các bên. 
+ĐIỀU 8 : ĐIỀU KHOẢN CẤM 
+Chủ thẻ chịu trách nhiệm trong phạm vi lỗi của mình về việc sử dụng Thẻ Tín dụng quốc tế và/hoặc thẻ Ghi nợ quốc tế sai hoặc trái với nội dung Điều kiện và điều khoản này và cam kết bồi hoàn cho Ngân hàng để bù đắp bất kỳ tổn thất, thiệt hại, lãi, chuyển đổi, và bất kỳ chi phí tài chính nào khác mà Ngân hàng có thể bị phát sinh và/hoặc phải gánh chịu do lỗi của Chủ thẻ. 
+Chủ thẻ không được sử dụng Thẻ Tín dụng quốc tế hoặc thẻ Ghi nợ quốc tế cho bất cứ mục đích không hợp pháp nào, bao gồm việc mua hàng hóa hoặc dịch vụ bị cấm theo pháp luật Việt Nam và pháp luật nơi Chủ thẻ cư trú. 
+ĐIỀU 9: CHẤM DỨT SỬ DỤNG THẺ VÀ TÀI KHOẢN 
+Chủ thẻ có thể ngừng/chấm dứt sử dụng Thẻ bất kỳ lúc nào bằng việc gửi một thông báo bằng văn bản đến Ngân hàng cùng với việc trả lại Thẻ được cắt đôi theo đường chéo.
+Chủ thẻ phải chịu trách nhiệm thanh toán mọi chi phí phát sinh, cho đến khi nhận được thông báo xác nhận đầy đủ bằng văn bản từ Ngân hàng.
+Khi Chủ thẻ yêu cầu Ngân hàng đóng thẻ tín dụng, Chủ thẻ cần thực hiện thanh toán số dư nợ ở thời điểm hiện tại đó.
+Tuy nhiên, nếu ĐVCNT yêu cầu làm rõ giao dịch hoặc khoản thanh toán mà Chủ thẻ sẽ thanh toán, Ngân hàng sẽ ghi nợ tài khoản Ngân hàng và gửi sao kê tài khoản hoặc yêu cầu Chủ thẻ thanh toán. 
+Ngân hàng tùy từng trường hợp có toàn quyền yêu cầu chấm dứt Thẻ theo quy định pháp luật Việt Nam. 
+Các điều khoản trong Điều kiện và điều khoản này được xem là giữ nguyên hiệu lực và có giá trị thi hành nếu và trong phạm vi bất kỳ một Giao dịch nào được hoàn thành mà chưa được ghi nợ vào Tài khoản trước khi chấm dứt thỏa thuận đó. 
+ĐIỀU 10 : SAO KÊ VÀ THANH TOÁN 
+Ngân hàng sẽ gửi cho Chủ thẻ bảng sao kê thẻ tín dụng mỗi tháng.
+Ngân hàng sẽ không gửi các sao kê cho Chủ thẻ ở trong trường hợp tài khoản thẻ không hoạt động hoặc bị ngưng hoạt động (tài khoản thẻ là tài khoản được khởi tạo và sử dụng trong nội bộ hệ thống Ngân hàng để quản lý và theo dõi Thẻ).
+Sao kê phải được thể hiện bằng tiền Việt Nam Đồng. 
+Chủ thẻ cần kiểm tra các lần thực hiện giao dịch thể hiện trên Sao kê khi nhận được Sao kê.
+Nếu Chủ thẻ thấy có lỗi hoặc có những giao dịch không được ủy quyền thì cần liên hệ với Ngân hàng qua tổng đài điện thoại 18006003 hoặc chi nhánh và gửi các yêu cầu kiến nghị trong vòng 10 ngày làm việc kể từ 
+ngày nhận được sao kê hoặc Chủ thẻ sẽ phải chịu trách nhiệm cho các giao dịch lỗi hoặc bất kỳ giao dịch mà không có sự ủy quyền nào. 
+Chủ thẻ phải thanh toán số tiền tối thiểu mỗi tháng để duy trì việc sử dụng thẻ. 
+Với dịch vụ thanh toán trực tiếp, Chủ thẻ phải duy trì đủ số dư trong tài khoản ít nhất là bằng với tổng số tiền phải thanh toán hoặc số tiền thanh toán tối thiểu được Chủ thẻ chỉ dẫn trong yêu cầu ghi nợ trực tiếp trước ngày đến hạn thanh toán. 
+Ngân hàng không chịu trách nhiệm cho bất kỳ các trì hoãn nào trong việc thanh toán giữa Chủ thẻ và ĐVCNT. 
+Ngân hàng áp dụng hình thức thanh toán vào tài khoản thẻ cho các nội dung sau: thu lãi, phí dịch vụ và các phí khác, hóa đơn rút tiền mặt, hóa đơn mua hàng hóa (bao gồm bất kỳ khoản thanh toán đến hạn nào – nếu có) 
+Nếu không rõ ràng trong khoản thanh toán liên quan đến tài khoản của Chủ thẻ, Ngân hàng sẽ chỉ ghi có khi Chủ thẻ cung cấp được chỉ dẫn rõ ràng về việc ghi có vào đâu.
+ 
+Số tiền thừa trên Thẻ chưa sử dụng hết được hoàn trả vào tài khoản thanh toán của Chủ thẻ theo quy định của Ngân hàng trong từng thời kỳ. 
+ĐIỀU 11: THẺ TÍN DỤNG ĐẢM BẢO 
+Nếu Chủ thẻ nộp đơn yêu cầu mở thẻ tín dụng đảm bảo với hạn mức tín dụng cao hơn, Chủ thẻ sẽ phải có một tài khoản tiền gửi với khoản tiền gửi tương đương hạn mức thẻ tín dụng để bảo đảm.
+Hạn mức thẻ tín dụng sẽ tính theo tỷ lệ phần trăm của món tiền gửi đảm bảo đó.
+Tài khoản tiền gửi này sẽ được khóa cho đến khi Chủ thẻ hoàn thành đầy đủ nghĩa vụ quy định tại Điều kiện và điều khoản này.
+Trường hợp Chủ thẻ vi phạm nghĩa vụ, Ngân hàng có quyền trích nợ số tiền trong tài khoản tiền gửi này để thu hồi nợ. 
+Chủ thẻ có trách nhiệm điền đầy đủ trên các chứng từ mà Ngân hàng cung cấp và cung cấp tất cả các chứng từ khác mà Ngân hàng yêu cầu cho việc đăng ký thẻ tín dụng đảm bảo. 
+Nếu Chủ thẻ muốn đóng thẻ hoặc nếu Ngân hàng chấm dứt thẻ, Ngân hàng sẽ giữ lại khoản tiền gửi của Chủ thẻ theo quy định tại Điều này trong thời gian 60 ngày kể từ ngày Thẻ bị đóng.
+Ngân hàng sẽ hoàn trả khoản tiền gửi này theo đền nghị của Chủ thẻ cùng với lãi suất theo như khoản tiền gửi theo thỏa thuận với Ngân hàng của Chủ thẻ, chỉ sau khi Ngân hàng đã trừ các khoản thanh toán bao gồm lãi, phí và các khoản thu khác. 
+ĐIỀU 12: DỊCH VỤ THẺ 
+Kế hoạch trả góp hàng tháng 
+Chủ thẻ có thể chuyển đổi từ thanh toán theo giao dịch sang thanh toán theo kế hoạch trả góp theo tháng kể từ ngày giao dịch mua hàng liên quan được ghi nhận vào tài khoản thẻ tín dụng đến ngày trước ngày của chu kỳ lên hóa đơn.
+Việc trả góp hàng tháng chỉ được áp dụng cho giao dịch qua POS. 
+Kỳ thanh toán trả góp có thể được quyết định bởi Chủ thẻ trong kỳ hạn tối đa được Ngân hàng quy 
+định hoặc lựa chọn tự động theo đặc điểm của sản phẩm thẻ tín dụng mà khách hàng đang sử dụng.
+Chủ thẻ sẽ thanh toán khoản thanh toán, số tiền phải trả góp và phí hàng tháng trong suốt kỳ hạn trả góp. 
+Số tiền thanh toán trả góp ban đầu có thể bao gồm số dư còn lại của khoản thanh toán trả góp.Việc thanh toán toàn bộ có thể được chấp nhận để hủy bỏ việc thanh toán trả góp. 
+Chương trình tích điểm: 
+Điểm sẽ được cộng dồn tích lũy cho việc thanh toán hàng hóa dịch vụ ở POS và tỷ lệ của việc cộng dồn sẽ theo đặc điểm của từng sản phẩm thẻ. 
+Chương trình điểm của Ngân hàng chỉ được áp dụng cho Chủ thẻ Chính, điểm của Chủ thẻ Phụ sẽ được kết hợp lại cùng với điểm của Chủ thẻ Chính. 
+Giá trị của điểm là 03 năm và tự động hết hạn từng tháng theo phương pháp điểm tích lũy trước sẽ hết hạn trước.
+Nếu Chủ thẻ đóng thẻ, điểm sẽ bị hết hạn. 
+Chủ thẻ chính có thể yêu cầu Ngân hàng chuyển đổi từ điểm sang nhận tiền mặt.
+01 điểm bằng với 1 VND và số tiền tối thiểu được nhận tiền mặt là 10,000 VND (tỷ lệ quy đổi có thể thay đổi theo từng thời kỳ theo quy định của Ngân hàng). 
+ĐIỀU 13: ĐIỀU KHOẢN CHUNG 
+Ngân hàng sẽ được toàn quyền quyết định sửa đổi hoặc bổ sung bất kỳ nội dung nào của bản Điều kiện và điều khoản này, các đặc điểm và lợi ích của việc sử dụng thẻ bao gồm việc sử dụng thẻ, phí, chấm dứt sử dụng thẻ, tài khoản, quyền và nghĩa vụ của hai bên và các thay đổi khác sau khi đã thông báo tới Chủ thẻ hoặc thông báo trên website của Ngân hàng.
+Trong thời hạn 05 ngày kể từ ngày Ngân hàng thông báo về việc sửa đổi, bổ sung Điều kiện, điều khoản, nếu Chủ thẻ không đồng ý với các sửa đổi, bổ sung đó, Chủ thẻ phải thông báo cho Ngân hàng để thỏa thuận chấm dứt Hợp đồng sử dụng và phát hành thẻ.
+Nếu Chủ thẻ tiếp tục sử dụng thẻ sau thời hạn 05 ngày kể từ ngày Ngân hàng thông báo về việc sửa đổi, bổ sung thì sẽ được hiểu là Chủ thẻ chấp nhận hoàn toàn các sửa đổi, bổ sung đó.
+Chủ thẻ phải chịu trách nhiệm đối với mọi chi phí phát sinh và các nghĩa vụ quy định tại bản Điều kiện và điều khoản này cho đến khi toàn bộ các khoản thanh toán theo Thẻ được hoàn trả đầy đủ.
+Ngân hàng có thể thông báo các Điều khoản sửa đổi phù hợp với quy định pháp luật Việt Nam tại các điểm giao dịch hoặc tại trang web của Ngân hàng (woori.com.vn).
+ 
+Toàn bộ điều khoản và điều kiện trong bản Điều kiện và điều khoản này sẽ được điều chỉnh và giải thích theo pháp luật Việt Nam. 
+Bản Điều kiện và điều khoản này được lập song ngữ bằng tiếng Việt và tiếng Anh có giá trị pháp lý ngang nhau.
+Trong trường hợp có sự không thống nhất giữa phần Tiếng Anh và Tiếng Việt, phần Tiếng Việt sẽ được ưu tiên áp dụng. 
+Những nội dung không được đề cập đến trong bản Điều kiện và điều khoản này sẽ được bổ sung trong bản hướng dẫn về sản phẩm thẻ hoặc theo pháp luật Việt Nam.
