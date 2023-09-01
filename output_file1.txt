@@ -127,8 +127,7 @@ Khi nhận được Thẻ, Chủ thẻ cần ký vào Thẻ ngay lập tức.
 Thẻ sẽ không thể chuyển giao và chỉ có thể được sử dụng để thực hiện các Giao dịch trong thời hạn hiệu lực bởi Chủ thẻ. 
 Chủ thẻ phải giữ Thẻ an toàn và đảm bảo rằng số Thẻ và số PIN không bị tiết lộ cho bất kỳ bên thứ ba nào trong bất kỳ hoàn cảnh nào hoặc bằng bất kỳ phương thức nào cho dù tự nguyện hoặc không.
 Chủ thẻ không được chọn một mã PIN mà rõ ràng có liên quan đến các thông tin như là ngày sinh, số điện thoại, số CMND hoặc đưa ra một phần có thể nhận biết là tên của Chủ thẻ.
-Mã PIN không được dễ đoán (như là 111.
-1234 vv…) hoặc được ghi trên các vật dụng thường xuyên được mang theo hoặc lưu trữ cùng với Thẻ hoặc thông tin nhận dạng hoặc các vật có thể bị mất hay đánh cắp cùng với Thẻ. 
+Mã PIN không được dễ đoán (như là 1111, 1234 vv…) hoặc được ghi trên các vật dụng thường xuyên được mang theo hoặc lưu trữ cùng với Thẻ hoặc thông tin nhận dạng hoặc các vật có thể bị mất hay đánh cắp cùng với Thẻ. 
 Khi mất Thẻ hoặc lộ thông tin Thẻ, Chủ thẻ phải thông báo ngay cho Ngân hàng.
 Ngân hàng sẽ tạm khóa Thẻ trong vòng tối đa là 60 phút kể từ thời điểm nhận được yêu cầu qua điện thoại hoặc các hình thức khác từ Chủ thẻ hoặc theo thỏa thuận trước bằng văn bản giữa Chủ thẻ và Ngân hàng.
 Ngân hàng chịu trách nhiệm về các giao dịch phát sinh sau thời điểm khóa thẻ.
@@ -218,7 +217,7 @@ Ngân hàng có quyền không thiết lập, điều chỉnh hoặc chấm dứ
 Bất kỳ tranh chấp hoặc bất đồng ý kiến nào giữa Chủ thẻ và Ngân hàng liên quan đến việc phát hành và sử dụng Thẻ Tín dụng quốc tế hoặc thẻ Ghi nợ quốc tế tại Việt Nam sẽ được giải quyết trước tiên bằng thương lượng thiện chí giữa hai bên.
 Trong trường hợp các tranh chấp/bất đồng không thể giải quyết được bằng thương lượng thì các bên có quyền yêu cầu các cơ quan/tổ chức có thẩm quyền/chức năng giải quyết theo quy định pháp luật. 
 Trong thời hạn tối đa 05 ngày làm việc kể từ ngày thông báo kết quả tra soát, khiếu nại cho Chủ thẻ, Ngân hàng thực hiện bồi hoàn cho Chủ thẻ theo thỏa thuận và quy định của pháp luật hiện hành đối với những tổn thất phát sinh không do lỗi của Chủ thẻ và/hoặc không thuộc các trường hợp bất khả kháng thỏa thuận tại hợp đồng.
-
+ 
 Trong trường hợp hết thời hạn xử lý đề nghị tra soát, khiếu nại theo thỏa thuận tại Điều kiện và điều khoản này mà vẫn chưa xác định được nguyên nhân hay lỗi thuộc bên nào thì trong vòng 15 ngày làm việc tiếp theo, các bên cùng thỏa thuận về phương án xử lý cho đến khi có kết luận cuối cùng của cơ quan có thẩm quyền phân định rõ lỗi và trách nhiệm của các bên. 
 ĐIỀU 8 : ĐIỀU KHOẢN CẤM 
 Chủ thẻ chịu trách nhiệm trong phạm vi lỗi của mình về việc sử dụng Thẻ Tín dụng quốc tế và/hoặc thẻ Ghi nợ quốc tế sai hoặc trái với nội dung Điều kiện và điều khoản này và cam kết bồi hoàn cho Ngân hàng để bù đắp bất kỳ tổn thất, thiệt hại, lãi, chuyển đổi, và bất kỳ chi phí tài chính nào khác mà Ngân hàng có thể bị phát sinh và/hoặc phải gánh chịu do lỗi của Chủ thẻ. 

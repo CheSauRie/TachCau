@@ -23,7 +23,8 @@ Lãi suất của TKTGCKHTT sẽ hết hiệu lực vào ngày đáo hạn.
 Lãi trên TGCKHTT sẽ được Ngân hàng tính toán và trả cho khách hàng sau khi trừ các khoản thuế, phí được quy định bởi Ngân hàng trong từng thời kỳ. 
 Phương thức trả lãi sẽ được lựa chọn khi đặt TKTGCKHTT. 
 Lãi suất được tính dựa trên cơ sở 365 ngày trên một năm và theo phương pháp tính lãi lấy số dư cuối ngày (tương đương với phương pháp tính lãi lấy số dư đầu ngày theo quy định của Ngân hàng Nhà nước). 
-Kỳ hạn, lãi suất, và phương thức thanh toán tùy thuộc vào những đặc tính của từng sản phẩm do Ngân hàng quy định và tuân thủ theo quy định hiện hành của Ngân hàng Nhà nước Việt Nam trong từng thời kỳ 
+Kỳ hạn, lãi suất, và phương thức thanh toán tùy thuộc vào những đặc tính của từng sản phẩm do Ngân hàng quy định và tuân thủ theo quy định hiện hành của Ngân hàng Nhà nước Việt Nam trong từng thời kỳ. 
+Rút 
 Việc rút TKTGCKHTT chỉ được thực hiện thông qua NHTTPBVN. 
 Khi rút TKTGCKHTT tổng số tiền gốc và lãi (nếu có) sẽ được tự động ghi có và TK được chỉ định. 
 TKTGCKHTT có thể gửi và rút trong cùng một ngày. 
